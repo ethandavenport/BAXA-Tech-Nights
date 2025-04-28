@@ -1,0 +1,1531 @@
+year,type,country,activity,sex,age,species,fatal_y_n
+2023.0,Unprovoked,AUSTRALIA,Surfing,M,46,Large Predatory Sharks,Y
+2022.0,Unprovoked,AUSTRALIA,Spearfishing,M,38,Large Predatory Sharks,N
+2021.0,Unprovoked,USA,Surfing,M,25,Other Category,N
+2021.0,Unprovoked,USA,Swimming,M,26,Small Sharks (Size-Based),N
+2021.0,Unprovoked,USA,Surfing,M,14,Other Category,N
+2021.0,Unprovoked,AUSTRALIA,Swimming,F,46,Other Category,N
+2020.0,Unprovoked,USA,Swimming,M,17,Large Predatory Sharks,N
+2020.0,Unprovoked,AUSTRALIA,Spearfishing,M,59,Other Category,N
+2020.0,Unprovoked,NEW ZEALAND,Surfing,M,60,Large Predatory Sharks,N
+2019.0,Unprovoked,PAPUA NEW GUINEA,Spearfishing,M,33,Other Category,Y
+2019.0,Unprovoked,USA,Surfing,F,21,Other Category,N
+2019.0,Unprovoked,AUSTRALIA,Surfing,M,50,Other Category,N
+2017.0,Unprovoked,SOUTH AFRICA,Surfing,F,13,Large Predatory Sharks,N
+2017.0,Unprovoked,USA,Surfing,M,19,Other Category,N
+2017.0,Unprovoked,AUSTRALIA,Swimming,M,57,Other Category,N
+2016.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,43,Large Predatory Sharks,N
+2016.0,Unprovoked,AUSTRALIA,Swimming,M,12,Other Named Sharks,N
+2016.0,Unprovoked,AUSTRALIA,Spearfishing,M,31,Large Sharks (Size-Based),N
+2015.0,Unprovoked,USA,Surfing,M,25,Large Predatory Sharks,N
+2015.0,Unprovoked,USA,Swimming,M,10,Other Category,N
+2014.0,Unprovoked,AUSTRALIA,Surfing,M,13,Other Category,N
+2014.0,Provoked,AUSTRALIA,Surfing,M,20,Other Category,N
+2014.0,Unprovoked,USA,Surfing,M,28,Large Sharks (Size-Based),N
+2014.0,Unprovoked,SOUTH AFRICA,Surfing,M,20,Large Predatory Sharks,N
+2014.0,Unprovoked,BAHAMAS,Spearfishing,M,42,Large Sharks (Size-Based),N
+2013.0,Unprovoked,USA,Surfing,M,25,Large Predatory Sharks,N
+2013.0,Unprovoked,USA,Surfing,M,45,Large Predatory Sharks,N
+2013.0,Unprovoked,USA,Swimming,M,28,Large Predatory Sharks,N
+2012.0,Unprovoked,USA,Surfing,M,14,Small Sharks (Size-Based),N
+2012.0,Unprovoked,AUSTRALIA,Surfing,M,34,Other Category,N
+2012.0,Provoked,USA,Fishing,M,23,Other Named Sharks,N
+2012.0,Unprovoked,USA,Surfing,F,12,Other Category,N
+2011.0,Unprovoked,USA,Surfing,M,19,Other Category,N
+2011.0,Unprovoked,SOUTH AFRICA,Surfing,M,33,Large Predatory Sharks,N
+2009.0,Unprovoked,AUSTRALIA,Spearfishing,M,18,Large Predatory Sharks,N
+2009.0,Unprovoked,SOUTH AFRICA,Surfing,M,25,Large Predatory Sharks,Y
+2008.0,Unprovoked,AUSTRALIA,Surfing,M,31,Large Predatory Sharks,N
+2008.0,Unprovoked,BRAZIL,Surfing,M,14,Other Category,N
+2008.0,Unprovoked,USA,Surfing,M,27,Large Predatory Sharks,N
+2007.0,Unprovoked,AUSTRALIA,Surfing,M,31,Large Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Surfing,M,27,Small Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Swimming,M,68,Large Sharks (Size-Based),N
+2005.0,Unprovoked,SOUTH AFRICA,Surfing,M,26,Other Category,N
+2005.0,Unprovoked,AUSTRALIA,Swimming,M,18,Large Predatory Sharks,N
+2002.0,Unprovoked,USA,Surfing,M,18,Small Sharks (Size-Based),N
+2001.0,Provoked,USA,Spearfishing,M,52,Large Predatory Sharks,N
+2000.0,Unprovoked,USA,Surfing,F,26,Other Category,N
+2000.0,Unprovoked,USA,Swimming,M,47,Other Category,N
+2000.0,Unprovoked,USA,Surfing,M,14,Other Category,N
+1998.0,Unprovoked,USA,Swimming,F,14,Other Category,N
+1992.0,Unprovoked,USA,Surfing,M,20,Large Predatory Sharks,N
+1991.0,Unprovoked,USA,Surfing,M,32,Large Predatory Sharks,N
+1990.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+1990.0,Unprovoked,USA,Surfing,M,43,Large Predatory Sharks,N
+1986.0,Unprovoked,USA,Swimming,F,6,Other Named Sharks,N
+1985.0,Provoked,SOUTH AFRICA,Spearfishing,M,39,Other Category,N
+1985.0,Unprovoked,SOUTH AFRICA,Surfing,M,18,Large Predatory Sharks,N
+1983.0,Unprovoked,SOUTH AFRICA,Swimming,M,47,Other Named Sharks,N
+1982.0,Unprovoked,BAHAMAS,Spearfishing,M,19,Other Named Sharks,N
+1980.0,Unprovoked,USA,Surfing,M,19,Large Predatory Sharks,N
+1978.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1975.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+1975.0,Unprovoked,AUSTRALIA,Surfing,M,17,Other Category,Y
+1971.0,Unprovoked,SOUTH AFRICA,Surfing,M,21,Large Predatory Sharks,N
+1968.0,Unprovoked,PAPUA NEW GUINEA,Swimming,M,7,Other Category,Y
+1960.0,Provoked,AUSTRALIA,Spearfishing,M,20,Other Named Sharks,N
+1954.0,Unprovoked,AUSTRALIA,Swimming,M,23,Other Category,Y
+1953.0,Unprovoked,USA,Spearfishing,M,15,Large Sharks (Size-Based),Y
+1952.0,Provoked,USA,Fishing,M,43,Small Sharks (Size-Based),N
+1952.0,Provoked,USA,Fishing,M,34,Small Sharks (Size-Based),N
+1949.0,Unprovoked,PAPUA NEW GUINEA,Spearfishing,M,18,Other Category,Y
+1947.0,Unprovoked,USA,Swimming,M,20,Other Category,Y
+1925.0,Unprovoked,AUSTRALIA,Swimming,M,16,Other Category,Y
+1923.0,Unprovoked,AUSTRALIA,Swimming,M,13,Other Category,Y
+2023.0,Unprovoked,USA,Surfing,M,21,Other Category,N
+2023.0,Provoked,USA,Fishing,M,35,Other Category,N
+2021.0,Unprovoked,USA,Surfing,M,58,Large Predatory Sharks,N
+2021.0,Unprovoked,USA,Swimming,M,36,Other Category,N
+2021.0,Unprovoked,USA,Swimming,M,7,Other Category,N
+2021.0,Unprovoked,AUSTRALIA,Swimming,M,54,Large Predatory Sharks,N
+2021.0,Unprovoked,USA,Surfing,M,19,Other Category,N
+2020.0,Unprovoked,USA,Swimming,F,57,Small Sharks (Size-Based),N
+2020.0,Unprovoked,AUSTRALIA,Swimming,M,23,Other Category,Y
+2020.0,Unprovoked,NEW ZEALAND,Surfing,F,13,Other Category,N
+2017.0,Unprovoked,AUSTRALIA,Surfing,M,31,Other Named Sharks,N
+2016.0,Unprovoked,USA,Swimming,F,52,Other Category,N
+2014.0,Unprovoked,AUSTRALIA,Swimming,F,63,Large Predatory Sharks,Y
+2013.0,Provoked,USA,Surfing,M,43,Small Sharks (Size-Based),N
+2011.0,Unprovoked,BRAZIL,Surfing,M,35,Other Category,N
+2011.0,Unprovoked,USA,Surfing,M,37,Other Category,N
+2011.0,Unprovoked,SOUTH AFRICA,Surfing,M,16,Other Category,Y
+2010.0,Provoked,USA,Fishing,M,20,Large Predatory Sharks,N
+2009.0,Unprovoked,USA,Surfing,M,54,Large Sharks (Size-Based),N
+2009.0,Unprovoked,USA,Swimming,F,19,Other Category,N
+2009.0,Unprovoked,USA,Swimming,M,61,Other Category,N
+2008.0,Provoked,AUSTRALIA,Fishing,M,50,Other Category,N
+2008.0,Unprovoked,USA,Surfing,M,40,Small Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Surfing,M,27,Small Sharks (Size-Based),N
+2005.0,Unprovoked,USA,Surfing,M,37,Large Predatory Sharks,N
+2005.0,Unprovoked,AUSTRALIA,Spearfishing,M,20,Large Sharks (Size-Based),N
+2004.0,Unprovoked,AUSTRALIA,Spearfishing,M,30,Other Category,N
+2004.0,Unprovoked,USA,Surfing,M,20,Large Predatory Sharks,N
+2003.0,Unprovoked,USA,Surfing,M,12,Other Category,N
+2001.0,Unprovoked,USA,Surfing,M,19,Small Sharks (Size-Based),N
+2000.0,Unprovoked,USA,Surfing,M,37,Large Sharks (Size-Based),N
+1999.0,Unprovoked,SOUTH AFRICA,Surfing,M,35,Large Predatory Sharks,N
+1999.0,Unprovoked,SOUTH AFRICA,Surfing,M,42,Large Predatory Sharks,N
+1998.0,Unprovoked,USA,Surfing,M,32,Large Predatory Sharks,N
+1998.0,Unprovoked,SOUTH AFRICA,Surfing,M,17,Other Category,N
+1998.0,Unprovoked,USA,Swimming,M,40,Other Category,N
+1997.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+1996.0,Unprovoked,USA,Surfing,M,22,Large Predatory Sharks,N
+1994.0,Unprovoked,BRAZIL,Surfing,M,15,Other Category,N
+1992.0,Unprovoked,AUSTRALIA,Surfing,M,28,Large Predatory Sharks,Y
+1992.0,Unprovoked,AUSTRALIA,Surfing,M,17,Large Predatory Sharks,N
+1990.0,Unprovoked,AUSTRALIA,Surfing,M,31,Large Predatory Sharks,N
+1989.0,Unprovoked,BAHAMAS,Spearfishing,F,31,Other Category,N
+1986.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,26,Large Sharks (Size-Based),N
+1986.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,29,Other Named Sharks,N
+1985.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,34,Large Predatory Sharks,N
+1983.0,Unprovoked,USA,Surfing,M,15,Large Predatory Sharks,N
+1982.0,Unprovoked,SOUTH AFRICA,Surfing,M,16,Large Predatory Sharks,N
+1976.0,Unprovoked,USA,Swimming,M,16,Other Category,Y
+1967.0,Provoked,AUSTRALIA,Spearfishing,M,36,Other Named Sharks,N
+1966.0,Unprovoked,USA,Swimming,M,35,Large Predatory Sharks,N
+1965.0,Unprovoked,MEXICO,Swimming,M,35,Other Category,N
+1963.0,Unprovoked,SOUTH AFRICA,Swimming,M,18,Other Category,Y
+1962.0,Unprovoked,AUSTRALIA,Spearfishing,M,16,Large Predatory Sharks,Y
+1962.0,Unprovoked,AUSTRALIA,Swimming,M,35,Other Category,N
+1961.0,Unprovoked,USA,Swimming,M,16,Large Predatory Sharks,N
+1946.0,Watercraft,AUSTRALIA,Fishing,M,28,Other Category,N
+1944.0,Unprovoked,SOUTH AFRICA,Swimming,M,26,Other Category,Y
+1922.0,Unprovoked,SOUTH AFRICA,Swimming,M,18,Large Predatory Sharks,N
+1920.0,Unprovoked,USA,Swimming,M,13,Other Category,N
+2023.0,Unprovoked,USA,Spearfishing,M,22,Other Category,N
+2022.0,Unprovoked,USA,Spearfishing,M,26,Other Category,N
+2022.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+2021.0,Unprovoked,AUSTRALIA,Spearfishing,M,24,Large Predatory Sharks,N
+2021.0,Unprovoked,BRAZIL,Surfing,M,52,Other Category,N
+2018.0,Unprovoked,AUSTRALIA,Surfing,M,36,Other Category,N
+2017.0,Unprovoked,USA,Surfing,F,35,Other Category,N
+2017.0,Unprovoked,AUSTRALIA,Surfing,M,25,Large Sharks (Size-Based),N
+2016.0,Unprovoked,USA,Surfing,M,41,Other Category,N
+2016.0,Unprovoked,USA,Swimming,F,51,Large Predatory Sharks,N
+2016.0,Unprovoked,USA,Swimming,M,64,Other Category,N
+2015.0,Unprovoked,USA,Surfing,M,25,Small Sharks (Size-Based),N
+2014.0,Unprovoked,USA,Surfing,M,29,Large Predatory Sharks,N
+2013.0,Unprovoked,USA,Surfing,F,13,Small Sharks (Size-Based),N
+2013.0,Unprovoked,USA,Fishing,M,17,Large Predatory Sharks,N
+2012.0,Unprovoked,AUSTRALIA,Spearfishing,M,31,Large Predatory Sharks,N
+2012.0,Unprovoked,USA,Surfing,M,37,Other Category,N
+2011.0,Unprovoked,AUSTRALIA,Surfing,M,14,Other Named Sharks,N
+2009.0,Unprovoked,BAHAMAS,Spearfishing,M,14,Large Predatory Sharks,N
+2009.0,Unprovoked,SOUTH AFRICA,Surfing,M,16,Other Category,Y
+2009.0,Unprovoked,USA,Surfing,F,17,Small Sharks (Size-Based),N
+2008.0,Unprovoked,USA,Swimming,M,32,Small Sharks (Size-Based),N
+2008.0,Unprovoked,USA,Surfing,M,19,Other Category,N
+2008.0,Unprovoked,MEXICO,Surfing,M,24,Large Predatory Sharks,Y
+2005.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+2003.0,Unprovoked,USA,Swimming,M,13,Other Category,N
+2003.0,Unprovoked,USA,Surfing,M,46,Other Category,N
+2003.0,Unprovoked,USA,Swimming,M,54,Other Category,N
+2002.0,Unprovoked,USA,Surfing,M,28,Large Sharks (Size-Based),N
+2001.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+2001.0,Unprovoked,USA,Swimming,M,14,Large Sharks (Size-Based),N
+2000.0,Unprovoked,USA,Swimming,M,55,Large Predatory Sharks,N
+1998.0,Unprovoked,BRAZIL,Surfing,M,17,Other Category,N
+1994.0,Unprovoked,SOUTH AFRICA,Surfing,M,22,Large Predatory Sharks,Y
+1994.0,Unprovoked,USA,Surfing,M,15,Small Sharks (Size-Based),N
+1993.0,Unprovoked,USA,Swimming,F,26,Large Predatory Sharks,N
+1987.0,Unprovoked,AUSTRALIA,Surfing,M,18,Large Predatory Sharks,N
+1985.0,Provoked,SOUTH AFRICA,Spearfishing,M,20,Large Sharks (Size-Based),N
+1983.0,Unprovoked,SOUTH AFRICA,Fishing,M,27,Other Named Sharks,N
+1981.0,Unprovoked,USA,Surfing,M,24,Large Predatory Sharks,Y
+1972.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1963.0,Unprovoked,USA,Swimming,M,25,Large Sharks (Size-Based),Y
+1961.0,Provoked,AUSTRALIA,Spearfishing,M,23,Other Named Sharks,N
+1950.0,Unprovoked,AUSTRALIA,Fishing,M,25,Small Sharks (Size-Based),N
+1947.0,Unprovoked,BRAZIL,Swimming,M,25,Other Category,Y
+1938.0,Provoked,AUSTRALIA,Fishing,M,18,Large Predatory Sharks,N
+1934.0,Unprovoked,USA,Swimming,M,11,Other Category,N
+1930.0,Unprovoked,SOUTH AFRICA,Swimming,M,23,Large Predatory Sharks,N
+1870.0,Unprovoked,AUSTRALIA,Fishing,M,13,Other Category,N
+2023.0,Unprovoked,USA,Swimming,M,47,Other Category,N
+2022.0,Provoked,USA,Fishing,M,29,Other Category,N
+2019.0,Unprovoked,USA,Surfing,M,18,Large Predatory Sharks,N
+2019.0,Unprovoked,AUSTRALIA,Swimming,M,25,Small Sharks (Size-Based),N
+2018.0,Unprovoked,USA,Swimming,M,10,Other Category,N
+2017.0,Unprovoked,USA,Swimming,M,13,Large Predatory Sharks,N
+2017.0,Unprovoked,USA,Swimming,M,46,Large Predatory Sharks,N
+2017.0,Provoked,MEXICO,Fishing,M,32,Large Predatory Sharks,N
+2017.0,Unprovoked,USA,Swimming,F,16,Other Category,N
+2016.0,Unprovoked,USA,Surfing,F,9,Other Category,N
+2016.0,Provoked,AUSTRALIA,Spearfishing,M,19,Small Sharks (Size-Based),N
+2016.0,Unprovoked,USA,Swimming,M,48,Large Predatory Sharks,N
+2015.0,Unprovoked,AUSTRALIA,Surfing,M,40,Large Predatory Sharks,N
+2014.0,Unprovoked,AUSTRALIA,Spearfishing,M,17,Large Predatory Sharks,Y
+2014.0,Unprovoked,USA,Surfing,M,21,Other Category,N
+2009.0,Unprovoked,AUSTRALIA,Surfing,M,31,Large Predatory Sharks,N
+2007.0,Unprovoked,USA,Swimming,F,15,Other Category,N
+2007.0,Unprovoked,USA,Swimming,M,14,Small Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Surfing,M,24,Small Sharks (Size-Based),N
+2006.0,Unprovoked,AUSTRALIA,Surfing,M,15,Large Predatory Sharks,N
+2006.0,Unprovoked,USA,Surfing,F,28,Large Predatory Sharks,N
+2005.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+2004.0,Unprovoked,USA,Surfing,F,28,Other Category,N
+2004.0,Unprovoked,NEW ZEALAND,Surfing,M,15,Large Sharks (Size-Based),N
+2003.0,Unprovoked,USA,Surfing,M,24,Other Category,N
+2002.0,Unprovoked,BRAZIL,Surfing,M,19,Other Category,Y
+2002.0,Unprovoked,USA,Surfing,M,15,Other Named Sharks,N
+2002.0,Unprovoked,USA,Surfing,M,13,Large Sharks (Size-Based),N
+2002.0,Unprovoked,AUSTRALIA,Surfing,M,30,Other Category,N
+2001.0,Unprovoked,USA,Surfing,M,14,Other Category,N
+2001.0,Unprovoked,USA,Surfing,M,22,Other Category,N
+2000.0,Unprovoked,AUSTRALIA,Swimming,M,49,Large Predatory Sharks,Y
+1997.0,Unprovoked,USA,Surfing,M,23,Large Predatory Sharks,N
+1994.0,Unprovoked,USA,Surfing,M,28,Large Sharks (Size-Based),N
+1989.0,Unprovoked,AUSTRALIA,Surfing,M,17,Large Predatory Sharks,N
+1989.0,Unprovoked,AUSTRALIA,Surfing,M,27,Large Predatory Sharks,Y
+1987.0,Unprovoked,USA,Surfing,M,15,Other Category,N
+1984.0,Unprovoked,SOUTH AFRICA,Surfing,M,27,Large Predatory Sharks,N
+1981.0,Unprovoked,USA,Swimming,M,19,Large Sharks (Size-Based),N
+1974.0,Unprovoked,USA,Surfing,M,17,Large Predatory Sharks,N
+1974.0,Unprovoked,USA,Surfing,M,24,Large Predatory Sharks,N
+1963.0,Unprovoked,AUSTRALIA,Spearfishing,M,18,Large Predatory Sharks,N
+1958.0,Provoked,USA,Spearfishing,M,20,Other Category,N
+1916.0,Unprovoked,USA,Swimming,M,12,Other Category,N
+1902.0,Unprovoked,AUSTRALIA,Swimming,M,17,Other Category,Y
+1902.0,Unprovoked,AUSTRALIA,Swimming,M,16,Other Category,N
+1848.0,Unprovoked,USA,Swimming,M,15,Other Category,N
+2023.0,Unprovoked,USA,Spearfishing,M,22,Other Category,N
+2022.0,Unprovoked,USA,Swimming,F,10,Other Category,N
+2022.0,Unprovoked,AUSTRALIA,Surfing,M,14,Other Category,N
+2021.0,Unprovoked,USA,Swimming,F,12,Large Predatory Sharks,N
+2020.0,Unprovoked,USA,Surfing,M,15,Other Category,N
+2019.0,Unprovoked,USA,Surfing,M,13,Other Category,N
+2019.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+2019.0,Unprovoked,USA,Swimming,M,58,Other Category,N
+2018.0,Unprovoked,AUSTRALIA,Swimming,F,46,Other Category,N
+2018.0,Provoked,USA,Fishing,M,52,Other Named Sharks,N
+2018.0,Unprovoked,BRAZIL,Surfing,M,20,Small Sharks (Size-Based),N
+2017.0,Unprovoked,USA,Surfing,F,33,Other Category,N
+2017.0,Unprovoked,USA,Surfing,M,28,Large Predatory Sharks,N
+2016.0,Provoked,AUSTRALIA,Fishing,M,73,Large Sharks (Size-Based),N
+2016.0,Unprovoked,USA,Surfing,M,21,Other Category,N
+2016.0,Unprovoked,USA,Fishing,M,34,Small Sharks (Size-Based),N
+2015.0,Unprovoked,AUSTRALIA,Surfing,M,43,Large Predatory Sharks,N
+2015.0,Provoked,AUSTRALIA,Swimming,M,19,Other Named Sharks,N
+2014.0,Unprovoked,AUSTRALIA,Swimming,M,50,Large Sharks (Size-Based),Y
+2014.0,Unprovoked,AUSTRALIA,Surfing,M,42,Other Category,N
+2013.0,Unprovoked,USA,Surfing,M,16,Large Predatory Sharks,N
+2012.0,Unprovoked,USA,Surfing,M,52,Other Category,N
+2012.0,Unprovoked,USA,Surfing,M,61,Large Predatory Sharks,N
+2011.0,Unprovoked,USA,Swimming,M,12,Other Category,N
+2010.0,Unprovoked,SOUTH AFRICA,Swimming,M,29,Large Predatory Sharks,Y
+2006.0,Provoked,SOUTH AFRICA,Fishing,M,25,Other Named Sharks,N
+2006.0,Unprovoked,USA,Spearfishing,M,26,Large Predatory Sharks,N
+2006.0,Unprovoked,BRAZIL,Swimming,M,35,Large Predatory Sharks,N
+2004.0,Unprovoked,BRAZIL,Swimming,M,17,Large Predatory Sharks,N
+2004.0,Unprovoked,BRAZIL,Swimming,M,29,Other Category,Y
+2004.0,Unprovoked,SOUTH AFRICA,Surfing,M,22,Other Named Sharks,N
+2003.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+2002.0,Unprovoked,USA,Surfing,M,27,Large Sharks (Size-Based),N
+2001.0,Unprovoked,USA,Surfing,M,32,Other Category,N
+2000.0,Unprovoked,USA,Surfing,M,23,Large Predatory Sharks,N
+2000.0,Unprovoked,USA,Spearfishing,M,39,Large Predatory Sharks,N
+1998.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,24,Large Predatory Sharks,N
+1998.0,Unprovoked,SOUTH AFRICA,Surfing,M,28,Other Category,Y
+1997.0,Unprovoked,BAHAMAS,Spearfishing,M,54,Other Category,N
+1996.0,Unprovoked,USA,Surfing,M,26,Other Category,N
+1996.0,Unprovoked,USA,Swimming,M,9,Other Category,N
+1995.0,Unprovoked,USA,Swimming,M,16,Large Sharks (Size-Based),N
+1994.0,Unprovoked,SOUTH AFRICA,Surfing,M,31,Large Predatory Sharks,N
+1990.0,Provoked,BAHAMAS,Fishing,M,51,Other Category,N
+1984.0,Unprovoked,USA,Surfing,M,16,Large Predatory Sharks,N
+1983.0,Unprovoked,BAHAMAS,Spearfishing,M,13,Other Category,N
+1982.0,Unprovoked,USA,Surfing,M,20,Large Sharks (Size-Based),N
+1981.0,Unprovoked,USA,Surfing,M,24,Other Category,N
+1981.0,Unprovoked,SOUTH AFRICA,Surfing,M,27,Other Named Sharks,N
+1981.0,Unprovoked,USA,Surfing,M,24,Other Category,N
+1978.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1966.0,Provoked,USA,Fishing,M,20,Other Category,N
+1961.0,Unprovoked,AUSTRALIA,Swimming,M,24,Large Sharks (Size-Based),N
+1955.0,Provoked,USA,Surfing,M,25,Large Predatory Sharks,N
+1951.0,Unprovoked,SOUTH AFRICA,Swimming,M,23,Large Predatory Sharks,N
+1946.0,Unprovoked,AUSTRALIA,Swimming,M,17,Other Category,Y
+1929.0,Unprovoked,AUSTRALIA,Swimming,M,39,Other Category,Y
+1916.0,Unprovoked,USA,Swimming,M,24,Large Predatory Sharks,Y
+1888.0,Unprovoked,AUSTRALIA,Swimming,M,11,Other Category,Y
+2023.0,Unprovoked,USA,Swimming,F,26,Other Category,N
+2023.0,Unprovoked,AUSTRALIA,Surfing,M,30,Large Predatory Sharks,N
+2022.0,Provoked,USA,Fishing,M,21,Large Predatory Sharks,N
+2021.0,Unprovoked,AUSTRALIA,Swimming,M,15,Other Category,N
+2021.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+2020.0,Unprovoked,AUSTRALIA,Surfing,M,60,Large Predatory Sharks,Y
+2018.0,Unprovoked,BRAZIL,Swimming,M,18,Large Predatory Sharks,Y
+2016.0,Unprovoked,AUSTRALIA,Surfing,M,36,Other Category,N
+2016.0,Unprovoked,USA,Surfing,M,43,Other Category,N
+2016.0,Unprovoked,USA,Swimming,F,57,Other Category,N
+2015.0,Unprovoked,SOUTH AFRICA,Surfing,M,15,Other Named Sharks,N
+2014.0,Unprovoked,BRAZIL,Fishing,M,43,Other Category,N
+2012.0,Unprovoked,SOUTH AFRICA,Surfing,M,29,Small Sharks (Size-Based),N
+2010.0,Provoked,USA,Fishing,M,49,Other Named Sharks,N
+2010.0,Unprovoked,SOUTH AFRICA,Surfing,M,35,Large Sharks (Size-Based),N
+2009.0,Unprovoked,USA,Surfing,M,18,Small Sharks (Size-Based),N
+2009.0,Unprovoked,AUSTRALIA,Surfing,M,15,Large Sharks (Size-Based),N
+2006.0,Unprovoked,USA,Surfing,M,19,Other Category,N
+2006.0,Unprovoked,USA,Swimming,M,55,Other Category,N
+2005.0,Unprovoked,USA,Surfing,F,20,Large Predatory Sharks,N
+2005.0,Unprovoked,USA,Surfing,M,37,Other Category,N
+2003.0,Unprovoked,USA,Surfing,M,19,Large Sharks (Size-Based),N
+2003.0,Provoked,USA,Surfing,M,34,Small Sharks (Size-Based),N
+2002.0,Unprovoked,USA,Surfing,M,35,Large Sharks (Size-Based),N
+2000.0,Unprovoked,USA,Swimming,M,73,Large Sharks (Size-Based),N
+1999.0,Unprovoked,BRAZIL,Surfing,M,21,Large Predatory Sharks,N
+1998.0,Unprovoked,USA,Surfing,M,14,Large Sharks (Size-Based),N
+1998.0,Unprovoked,USA,Surfing,M,13,Other Category,N
+1997.0,Unprovoked,USA,Surfing,M,12,Large Sharks (Size-Based),N
+1996.0,Unprovoked,USA,Swimming,M,46,Other Category,N
+1984.0,Unprovoked,SOUTH AFRICA,Surfing,M,14,Other Category,N
+1995.0,Unprovoked,USA,Swimming,M,38,Large Predatory Sharks,N
+1995.0,Unprovoked,BRAZIL,Surfing,M,17,Other Category,N
+1990.0,Unprovoked,AUSTRALIA,Swimming,M,26,Large Sharks (Size-Based),N
+1989.0,Unprovoked,AUSTRALIA,Surfing,M,17,Large Predatory Sharks,N
+1988.0,Unprovoked,USA,Surfing,M,25,Large Sharks (Size-Based),N
+1984.0,Unprovoked,USA,Surfing,M,13,Large Sharks (Size-Based),N
+1984.0,Unprovoked,SOUTH AFRICA,Swimming,M,14,Other Named Sharks,N
+1982.0,Unprovoked,SOUTH AFRICA,Surfing,M,16,Other Category,N
+1982.0,Unprovoked,USA,Swimming,M,17,Large Sharks (Size-Based),N
+1981.0,Unprovoked,SOUTH AFRICA,Surfing,M,19,Other Named Sharks,N
+1977.0,Unprovoked,USA,Surfing,M,27,Other Category,N
+1973.0,Unprovoked,AUSTRALIA,Surfing,M,16,Large Sharks (Size-Based),N
+1968.0,Unprovoked,AUSTRALIA,Spearfishing,M,26,Large Predatory Sharks,N
+1965.0,Unprovoked,AUSTRALIA,Surfing,M,24,Other Named Sharks,N
+1947.0,Provoked,USA,Fishing,M,46,Small Sharks (Size-Based),N
+1942.0,Unprovoked,SOUTH AFRICA,Swimming,M,38,Other Category,N
+1930.0,Unprovoked,AUSTRALIA,Fishing,M,17,Other Category,N
+1926.0,Unprovoked,USA,Swimming,M,18,Other Category,Y
+1919.0,Unprovoked,AUSTRALIA,Swimming,M,47,Other Category,Y
+1914.0,Unprovoked,USA,Swimming,M,17,Other Category,Y
+1905.0,Unprovoked,SOUTH AFRICA,Swimming,M,26,Other Category,Y
+1895.0,Unprovoked,USA,Swimming,M,26,Other Category,Y
+1895.0,Unprovoked,AUSTRALIA,Swimming,M,13,Other Category,N
+1883.0,Unprovoked,AUSTRALIA,Swimming,M,21,Other Category,Y
+2023.0,Unprovoked,USA,Swimming,M,60,Other Category,N
+2022.0,Unprovoked,AUSTRALIA,Swimming,M,15,Other Category,N
+2021.0,Unprovoked,USA,Surfing,M,41,Large Predatory Sharks,N
+2018.0,Unprovoked,BAHAMAS,Swimming,M,8,Other Named Sharks,N
+2018.0,Unprovoked,BAHAMAS,Swimming,M,12,Large Predatory Sharks,N
+2018.0,Provoked,AUSTRALIA,Fishing,M,34,Other Category,N
+2017.0,Unprovoked,AUSTRALIA,Surfing,F,17,Large Predatory Sharks,Y
+2017.0,Unprovoked,USA,Surfing,M,58,Other Category,N
+2016.0,Unprovoked,USA,Surfing,M,36,Other Category,N
+2016.0,Unprovoked,USA,Surfing,M,37,Other Category,N
+2015.0,Unprovoked,USA,Surfing,M,21,Small Sharks (Size-Based),N
+2015.0,Unprovoked,USA,Spearfishing,M,27,Large Predatory Sharks,N
+2014.0,Unprovoked,USA,Fishing,F,40,Other Category,N
+2013.0,Unprovoked,USA,Surfing,M,50,Other Category,N
+2012.0,Unprovoked,USA,Surfing,M,22,Small Sharks (Size-Based),N
+2012.0,Unprovoked,USA,Surfing,M,32,Other Category,N
+2012.0,Unprovoked,USA,Surfing,M,44,Other Category,N
+2012.0,Unprovoked,USA,Swimming,M,6,Large Predatory Sharks,N
+2012.0,Unprovoked,USA,Surfing,M,21,Other Category,N
+2010.0,Unprovoked,USA,Surfing,M,55,Small Sharks (Size-Based),N
+2009.0,Unprovoked,AUSTRALIA,Surfing,M,33,Large Predatory Sharks,N
+2008.0,Unprovoked,MEXICO,Surfing,M,21,Large Sharks (Size-Based),Y
+2006.0,Unprovoked,USA,Surfing,M,22,Large Predatory Sharks,N
+2006.0,Unprovoked,USA,Swimming,F,21,Other Category,N
+2005.0,Unprovoked,BRAZIL,Surfing,M,12,Other Category,N
+2004.0,Unprovoked,USA,Surfing,M,44,Large Sharks (Size-Based),N
+2004.0,Unprovoked,USA,Swimming,M,61,Other Category,N
+2002.0,Unprovoked,USA,Swimming,F,15,Large Predatory Sharks,N
+2001.0,Unprovoked,USA,Surfing,M,17,Small Sharks (Size-Based),N
+2000.0,Unprovoked,AUSTRALIA,Swimming,M,26,Large Sharks (Size-Based),N
+1998.0,Unprovoked,SOUTH AFRICA,Surfing,M,18,Large Predatory Sharks,N
+1997.0,Unprovoked,USA,Swimming,M,32,Other Category,N
+1996.0,Unprovoked,AUSTRALIA,Swimming,F,13,Large Predatory Sharks,N
+1995.0,Unprovoked,USA,Surfing,M,39,Large Sharks (Size-Based),N
+1995.0,Unprovoked,USA,Swimming,M,23,Other Category,N
+1994.0,Unprovoked,USA,Surfing,M,22,Other Category,N
+1994.0,Unprovoked,SOUTH AFRICA,Surfing,M,15,Large Predatory Sharks,N
+1993.0,Unprovoked,BAHAMAS,Spearfishing,M,51,Large Predatory Sharks,N
+1989.0,Unprovoked,USA,Surfing,M,12,Small Sharks (Size-Based),N
+1989.0,Unprovoked,USA,Swimming,M,21,Large Sharks (Size-Based),N
+1988.0,Unprovoked,USA,Surfing,M,30,Large Sharks (Size-Based),N
+1987.0,Unprovoked,USA,Surfing,M,27,Small Sharks (Size-Based),N
+1983.0,Unprovoked,USA,Surfing,M,16,Large Sharks (Size-Based),N
+1983.0,Unprovoked,BAHAMAS,Spearfishing,M,15,Other Category,Y
+1982.0,Unprovoked,USA,Swimming,F,19,Other Category,N
+1982.0,Unprovoked,USA,Swimming,M,20,Small Sharks (Size-Based),N
+1968.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+1966.0,Unprovoked,PAPUA NEW GUINEA,Swimming,F,13,Large Sharks (Size-Based),Y
+1963.0,Unprovoked,SOUTH AFRICA,Swimming,M,24,Other Category,N
+1962.0,Unprovoked,NEW ZEALAND,Spearfishing,M,44,Other Category,N
+1955.0,Unprovoked,AUSTRALIA,Swimming,M,25,Large Predatory Sharks,Y
+1953.0,Unprovoked,AUSTRALIA,Spearfishing,M,25,Other Named Sharks,N
+1947.0,Unprovoked,AUSTRALIA,Swimming,M,12,Other Category,Y
+1942.0,Unprovoked,AUSTRALIA,Swimming,F,28,Large Predatory Sharks,Y
+1937.0,Unprovoked,USA,Swimming,M,14,Other Category,Y
+1932.0,Unprovoked,AUSTRALIA,Swimming,M,24,Other Named Sharks,N
+1901.0,Unprovoked,SOUTH AFRICA,Swimming,M,29,Large Predatory Sharks,Y
+1895.0,Unprovoked,AUSTRALIA,Swimming,M,14,Other Category,Y
+2023.0,Unprovoked,USA,Swimming,F,15,Large Predatory Sharks,N
+2017.0,Unprovoked,BRAZIL,Swimming,M,21,Other Category,N
+2016.0,Provoked,AUSTRALIA,Fishing,M,31,Other Category,N
+2016.0,Unprovoked,USA,Swimming,F,42,Other Category,N
+2016.0,Unprovoked,AUSTRALIA,Surfing,M,22,Other Category,N
+2015.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+2015.0,Unprovoked,USA,Surfing,M,15,Small Sharks (Size-Based),N
+2015.0,Unprovoked,USA,Spearfishing,M,70,Large Predatory Sharks,N
+2014.0,Provoked,USA,Fishing,M,33,Other Category,N
+2011.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,28,Large Predatory Sharks,Y
+2010.0,Unprovoked,USA,Surfing,M,24,Other Category,N
+2010.0,Unprovoked,USA,Surfing,M,20,Large Predatory Sharks,N
+2009.0,Provoked,USA,Swimming,F,43,Other Named Sharks,N
+2008.0,Unprovoked,USA,Surfing,M,24,Other Category,N
+2008.0,Unprovoked,MEXICO,Surfing,M,26,Large Predatory Sharks,N
+2007.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+2006.0,Unprovoked,USA,Surfing,M,54,Other Category,N
+2006.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,34,Other Category,N
+2005.0,Unprovoked,AUSTRALIA,Spearfishing,M,44,Other Category,N
+2004.0,Unprovoked,USA,Surfing,F,20,Other Category,N
+2003.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+2001.0,Unprovoked,BAHAMAS,Spearfishing,M,43,Large Predatory Sharks,N
+1999.0,Unprovoked,NEW ZEALAND,Surfing,M,15,Other Category,N
+1999.0,Unprovoked,USA,Swimming,F,51,Large Predatory Sharks,N
+1996.0,Unprovoked,USA,Surfing,M,45,Large Predatory Sharks,N
+1996.0,Unprovoked,USA,Swimming,M,14,Other Category,N
+1994.0,Unprovoked,BRAZIL,Surfing,M,25,Large Sharks (Size-Based),N
+1986.0,Unprovoked,SOUTH AFRICA,Surfing,M,23,Large Sharks (Size-Based),N
+1985.0,Unprovoked,USA,Surfing,M,25,Other Category,N
+1982.0,Unprovoked,USA,Surfing,M,18,Small Sharks (Size-Based),N
+1981.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1976.0,Unprovoked,USA,Surfing,M,25,Large Predatory Sharks,N
+1975.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1972.0,Unprovoked,NEW ZEALAND,Swimming,M,17,Other Category,N
+1971.0,Unprovoked,NEW ZEALAND,Surfing,M,16,Large Predatory Sharks,N
+1962.0,Unprovoked,PAPUA NEW GUINEA,Swimming,M,10,Large Predatory Sharks,Y
+1961.0,Provoked,SOUTH AFRICA,Fishing,M,44,Large Predatory Sharks,N
+1960.0,Unprovoked,SOUTH AFRICA,Swimming,M,25,Large Predatory Sharks,Y
+1960.0,Unprovoked,AUSTRALIA,Swimming,M,41,Small Sharks (Size-Based),N
+1958.0,Unprovoked,AUSTRALIA,Swimming,M,21,Large Sharks (Size-Based),Y
+1955.0,Unprovoked,USA,Spearfishing,M,19,Large Predatory Sharks,N
+1954.0,Unprovoked,USA,Swimming,M,35,Large Sharks (Size-Based),N
+1940.0,Unprovoked,SOUTH AFRICA,Swimming,M,17,Other Category,Y
+1904.0,Unprovoked,NEW ZEALAND,Swimming,M,30,Other Category,Y
+2023.0,Unprovoked,USA,Surfing,M,58,Large Predatory Sharks,N
+2023.0,Unprovoked,BRAZIL,Swimming,F,15,Other Category,N
+2021.0,Provoked,AUSTRALIA,Fishing,M,34,Other Named Sharks,N
+2019.0,Provoked,USA,Surfing,M,32,Small Sharks (Size-Based),N
+2019.0,Unprovoked,BRAZIL,Surfing,M,31,Other Named Sharks,N
+2018.0,Unprovoked,USA,Surfing,M,48,Other Category,N
+2018.0,Unprovoked,BAHAMAS,Spearfishing,M,29,Other Category,N
+2017.0,Unprovoked,USA,Swimming,F,51,Other Category,N
+2016.0,Unprovoked,USA,Surfing,M,36,Large Sharks (Size-Based),N
+2016.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+2016.0,Unprovoked,USA,Spearfishing,M,26,Large Predatory Sharks,N
+2015.0,Unprovoked,USA,Surfing,M,21,Small Sharks (Size-Based),N
+2015.0,Provoked,USA,Spearfishing,M,57,Large Predatory Sharks,N
+2013.0,Unprovoked,NEW ZEALAND,Swimming,M,46,Large Predatory Sharks,Y
+2012.0,Unprovoked,USA,Surfing,M,60,Large Sharks (Size-Based),N
+2011.0,Unprovoked,USA,Surfing,M,25,Small Sharks (Size-Based),N
+2011.0,Unprovoked,USA,Surfing,M,19,Other Category,N
+2009.0,Unprovoked,AUSTRALIA,Surfing,M,39,Other Category,N
+2009.0,Unprovoked,AUSTRALIA,Surfing,M,52,Other Category,N
+2008.0,Unprovoked,USA,Surfing,M,52,Small Sharks (Size-Based),N
+2008.0,Unprovoked,USA,Swimming,F,14,Other Category,N
+2007.0,Unprovoked,USA,Surfing,M,22,Small Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Surfing,M,51,Other Category,N
+2006.0,Unprovoked,USA,Surfing,M,41,Large Predatory Sharks,N
+2005.0,Unprovoked,AUSTRALIA,Surfing,M,18,Other Category,N
+2004.0,Unprovoked,AUSTRALIA,Surfing,M,59,Large Predatory Sharks,N
+2004.0,Unprovoked,AUSTRALIA,Surfing,M,30,Large Sharks (Size-Based),Y
+2003.0,Unprovoked,USA,Surfing,M,30,Other Category,N
+2002.0,Unprovoked,USA,Surfing,M,24,Large Predatory Sharks,N
+2000.0,Unprovoked,USA,Surfing,M,23,Other Category,N
+2000.0,Unprovoked,NEW ZEALAND,Surfing,M,12,Other Category,N
+1999.0,Unprovoked,USA,Surfing,M,25,Other Category,N
+1998.0,Unprovoked,BRAZIL,Surfing,M,22,Large Predatory Sharks,Y
+1996.0,Unprovoked,AUSTRALIA,Swimming,M,7,Other Category,N
+1993.0,Provoked,AUSTRALIA,Fishing,M,69,Large Predatory Sharks,N
+1988.0,Unprovoked,USA,Surfing,M,15,Other Category,N
+1988.0,Unprovoked,AUSTRALIA,Surfing,M,15,Other Category,N
+1988.0,Unprovoked,USA,Swimming,F,15,Other Category,N
+1982.0,Unprovoked,AUSTRALIA,Spearfishing,M,32,Large Predatory Sharks,Y
+1978.0,Unprovoked,SOUTH AFRICA,Surfing,M,17,Large Predatory Sharks,N
+1976.0,Unprovoked,USA,Spearfishing,M,24,Other Category,N
+1969.0,Unprovoked,USA,Surfing,M,16,Large Predatory Sharks,N
+1968.0,Watercraft,SOUTH AFRICA,Fishing,M,22,Other Category,N
+1964.0,Unprovoked,NEW ZEALAND,Swimming,M,19,Large Predatory Sharks,Y
+1962.0,Unprovoked,MEXICO,Swimming,M,20,Other Category,N
+1962.0,Provoked,NEW ZEALAND,Swimming,M,15,Other Category,N
+1962.0,Unprovoked,PAPUA NEW GUINEA,Spearfishing,M,24,Large Predatory Sharks,N
+1959.0,Unprovoked,SOUTH AFRICA,Swimming,M,18,Large Predatory Sharks,N
+1937.0,Unprovoked,AUSTRALIA,Swimming,M,25,Large Predatory Sharks,Y
+1936.0,Unprovoked,AUSTRALIA,Swimming,M,15,Other Category,Y
+1916.0,Unprovoked,USA,Swimming,M,10,Other Category,Y
+1908.0,Unprovoked,SOUTH AFRICA,Swimming,M,16,Other Category,Y
+1896.0,Unprovoked,USA,Fishing,M,35,Other Category,Y
+1880.0,Unprovoked,AUSTRALIA,Swimming,M,12,Large Predatory Sharks,Y
+2023.0,Unprovoked,USA,Swimming,M,49,Small Sharks (Size-Based),N
+2023.0,Unprovoked,USA,Spearfishing,M,20,Other Category,N
+2023.0,Unprovoked,AUSTRALIA,Fishing,M,8,Small Sharks (Size-Based),N
+2022.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+2021.0,Unprovoked,USA,Spearfishing,F,27,Other Category,N
+2021.0,Unprovoked,NEW ZEALAND,Surfing,M,26,Other Category,N
+2021.0,Unprovoked,USA,Spearfishing,M,36,Other Category,Y
+2021.0,Unprovoked,USA,Swimming,F,68,Other Category,N
+2020.0,Unprovoked,USA,Swimming,F,63,Large Predatory Sharks,Y
+2019.0,Provoked,USA,Surfing,M,40,Small Sharks (Size-Based),N
+2019.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+2017.0,Provoked,USA,Fishing,M,34,Small Sharks (Size-Based),N
+2017.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+2015.0,Unprovoked,USA,Swimming,M,44,Large Predatory Sharks,N
+2015.0,Unprovoked,BAHAMAS,Spearfishing,F,23,Other Category,N
+2015.0,Unprovoked,AUSTRALIA,Surfing,M,35,Large Sharks (Size-Based),N
+2014.0,Unprovoked,USA,Swimming,M,61,Large Sharks (Size-Based),N
+2014.0,Unprovoked,USA,Swimming,F,40,Small Sharks (Size-Based),N
+2011.0,Unprovoked,USA,Surfing,M,41,Large Predatory Sharks,N
+2010.0,Unprovoked,USA,Swimming,M,10,Large Predatory Sharks,N
+2009.0,Unprovoked,USA,Surfing,F,27,Other Category,N
+2008.0,Unprovoked,USA,Surfing,M,40,Large Predatory Sharks,N
+2008.0,Unprovoked,USA,Surfing,M,24,Other Category,N
+2008.0,Unprovoked,USA,Swimming,M,66,Large Predatory Sharks,Y
+2007.0,Unprovoked,AUSTRALIA,Surfing,F,42,Large Sharks (Size-Based),N
+2006.0,Unprovoked,AUSTRALIA,Surfing,M,40,Large Predatory Sharks,N
+2006.0,Provoked,USA,Spearfishing,M,15,Large Sharks (Size-Based),N
+2005.0,Unprovoked,SOUTH AFRICA,Surfing,M,32,Large Sharks (Size-Based),N
+2004.0,Unprovoked,SOUTH AFRICA,Surfing,M,16,Large Predatory Sharks,N
+2003.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+2003.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+2003.0,Unprovoked,USA,Swimming,M,51,Other Category,N
+2003.0,Unprovoked,USA,Surfing,M,50,Small Sharks (Size-Based),N
+2002.0,Unprovoked,USA,Swimming,F,34,Large Sharks (Size-Based),N
+2002.0,Unprovoked,USA,Swimming,F,29,Other Category,N
+2001.0,Unprovoked,USA,Swimming,M,10,Large Predatory Sharks,Y
+1998.0,Unprovoked,BAHAMAS,Spearfishing,M,28,Large Sharks (Size-Based),N
+1995.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1995.0,Unprovoked,USA,Surfing,M,14,Small Sharks (Size-Based),N
+1994.0,Unprovoked,SOUTH AFRICA,Swimming,M,33,Large Sharks (Size-Based),N
+1991.0,Unprovoked,USA,Surfing,M,38,Large Predatory Sharks,N
+1989.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+1988.0,Unprovoked,USA,Surfing,M,21,Small Sharks (Size-Based),N
+1988.0,Unprovoked,USA,Surfing,M,27,Large Predatory Sharks,N
+1986.0,Unprovoked,USA,Surfing,M,23,Other Category,N
+1982.0,Unprovoked,SOUTH AFRICA,Swimming,M,20,Other Named Sharks,N
+1980.0,Provoked,SOUTH AFRICA,Fishing,M,61,Large Predatory Sharks,N
+1975.0,Unprovoked,SOUTH AFRICA,Surfing,M,19,Large Predatory Sharks,N
+1974.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,22,Other Named Sharks,N
+1968.0,Unprovoked,BAHAMAS,Spearfishing,M,17,Large Sharks (Size-Based),N
+1966.0,Unprovoked,AUSTRALIA,Spearfishing,M,29,Other Category,N
+1960.0,Unprovoked,USA,Swimming,M,24,Other Category,N
+1960.0,Unprovoked,USA,Swimming,F,16,Large Predatory Sharks,N
+1943.0,Unprovoked,SOUTH AFRICA,Swimming,M,31,Other Category,Y
+1892.0,Provoked,AUSTRALIA,Fishing,M,21,Large Sharks (Size-Based),N
+2023.0,Unprovoked,USA,Surfing,F,15,Other Category,N
+2021.0,Unprovoked,USA,Surfing,M,35,Other Category,N
+2021.0,Unprovoked,AUSTRALIA,Surfing,M,25,Other Category,N
+2020.0,Unprovoked,USA,Swimming,M,14,Other Category,N
+2019.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+2019.0,Unprovoked,AUSTRALIA,Surfing,M,29,Large Predatory Sharks,N
+2019.0,Unprovoked,USA,Surfing,M,16,Large Sharks (Size-Based),N
+2018.0,Unprovoked,AUSTRALIA,Surfing,M,42,Small Sharks (Size-Based),N
+2018.0,Watercraft,USA,Fishing,M,55,Large Predatory Sharks,N
+2018.0,Unprovoked,USA,Swimming,M,61,Large Predatory Sharks,N
+2017.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+2016.0,Unprovoked,AUSTRALIA,Surfing,M,25,Other Category,N
+2015.0,Unprovoked,SOUTH AFRICA,Surfing,M,34,Large Predatory Sharks,N
+2015.0,Unprovoked,USA,Swimming,M,18,Large Predatory Sharks,N
+2014.0,Unprovoked,USA,Surfing,M,44,Other Category,N
+2012.0,Unprovoked,AUSTRALIA,Surfing,M,48,Large Predatory Sharks,N
+2012.0,Unprovoked,AUSTRALIA,Surfing,M,28,Large Sharks (Size-Based),N
+2011.0,Unprovoked,BRAZIL,Surfing,M,21,Other Category,N
+2008.0,Unprovoked,AUSTRALIA,Swimming,M,37,Large Predatory Sharks,N
+2007.0,Unprovoked,BAHAMAS,Spearfishing,F,48,Other Category,N
+2007.0,Unprovoked,USA,Surfing,M,16,Small Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+2007.0,Unprovoked,USA,Surfing,F,21,Small Sharks (Size-Based),N
+2007.0,Unprovoked,AUSTRALIA,Swimming,F,59,Large Sharks (Size-Based),N
+2006.0,Unprovoked,USA,Surfing,M,31,Other Category,N
+2005.0,Unprovoked,USA,Surfing,M,25,Other Category,N
+2005.0,Unprovoked,USA,Surfing,M,47,Large Predatory Sharks,N
+2003.0,Unprovoked,USA,Surfing,M,21,Other Category,N
+2003.0,Unprovoked,BAHAMAS,Spearfishing,M,39,Large Predatory Sharks,N
+2003.0,Unprovoked,USA,Surfing,M,23,Large Sharks (Size-Based),N
+2001.0,Unprovoked,USA,Swimming,F,23,Large Predatory Sharks,N
+2000.0,Unprovoked,AUSTRALIA,Swimming,M,52,Large Predatory Sharks,N
+2000.0,Unprovoked,USA,Swimming,M,69,Other Category,N
+2000.0,Unprovoked,AUSTRALIA,Surfing,M,26,Large Sharks (Size-Based),N
+1999.0,Unprovoked,NEW ZEALAND,Swimming,F,13,Other Category,N
+1999.0,Unprovoked,USA,Surfing,M,21,Small Sharks (Size-Based),N
+1998.0,Unprovoked,SOUTH AFRICA,Surfing,M,16,Small Sharks (Size-Based),N
+1995.0,Unprovoked,USA,Swimming,F,19,Other Category,N
+1991.0,Unprovoked,USA,Swimming,M,22,Other Category,N
+1990.0,Unprovoked,USA,Surfing,M,50,Other Category,N
+1989.0,Unprovoked,USA,Swimming,M,19,Large Sharks (Size-Based),N
+1983.0,Provoked,USA,Fishing,M,43,Other Category,N
+1982.0,Unprovoked,SOUTH AFRICA,Swimming,F,18,Other Category,N
+1981.0,Unprovoked,USA,Surfing,M,28,Other Category,N
+1979.0,Unprovoked,SOUTH AFRICA,Swimming,M,18,Other Category,N
+1979.0,Unprovoked,USA,Surfing,M,27,Other Category,N
+1976.0,Unprovoked,USA,Surfing,M,19,Large Predatory Sharks,N
+1969.0,Provoked,AUSTRALIA,Fishing,M,49,Other Category,N
+1968.0,Unprovoked,NEW ZEALAND,Surfing,M,17,Large Predatory Sharks,N
+1966.0,Unprovoked,USA,Fishing,M,14,Other Category,N
+1963.0,Unprovoked,USA,Surfing,M,15,Large Sharks (Size-Based),N
+1961.0,Unprovoked,USA,Spearfishing,M,22,Large Predatory Sharks,N
+1956.0,Unprovoked,USA,Swimming,M,7,Other Category,N
+1954.0,Unprovoked,SOUTH AFRICA,Swimming,M,16,Other Category,N
+1954.0,Unprovoked,PAPUA NEW GUINEA,Swimming,M,12,Other Category,N
+1947.0,Unprovoked,USA,Fishing,M,35,Other Category,N
+1941.0,Unprovoked,AUSTRALIA,Swimming,M,10,Other Category,N
+1936.0,Watercraft,AUSTRALIA,Fishing,M,50,Large Predatory Sharks,Y
+1934.0,Unprovoked,SOUTH AFRICA,Swimming,M,12,Other Category,N
+1930.0,Unprovoked,AUSTRALIA,Swimming,M,49,Other Category,N
+1922.0,Unprovoked,AUSTRALIA,Swimming,M,54,Other Category,Y
+2023.0,Unprovoked,USA,Swimming,M,34,Other Category,N
+2022.0,Unprovoked,NEW ZEALAND,Swimming,F,13,Other Category,N
+2021.0,Provoked,USA,Spearfishing,F,19,Large Predatory Sharks,N
+2021.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,38,Other Category,N
+2020.0,Unprovoked,USA,Surfing,M,25,Other Category,N
+2020.0,Unprovoked,USA,Surfing,M,54,Other Category,N
+2018.0,Unprovoked,AUSTRALIA,Surfing,M,60,Large Sharks (Size-Based),N
+2015.0,Unprovoked,SOUTH AFRICA,Surfing,M,42,Large Predatory Sharks,N
+2015.0,Unprovoked,AUSTRALIA,Surfing,M,52,Large Predatory Sharks,N
+2015.0,Unprovoked,USA,Surfing,M,38,Large Predatory Sharks,N
+2015.0,Provoked,MEXICO,Fishing,M,36,Other Category,N
+2014.0,Unprovoked,USA,Swimming,M,42,Other Category,N
+2014.0,Unprovoked,NEW ZEALAND,Spearfishing,M,24,Other Category,N
+2013.0,Unprovoked,USA,Swimming,M,11,Other Category,N
+2013.0,Unprovoked,USA,Surfing,M,21,Large Predatory Sharks,N
+2012.0,Unprovoked,USA,Surfing,M,39,Large Predatory Sharks,Y
+2012.0,Unprovoked,AUSTRALIA,Surfing,M,42,Large Sharks (Size-Based),N
+2012.0,Unprovoked,USA,Surfing,M,28,Small Sharks (Size-Based),N
+2012.0,Unprovoked,AUSTRALIA,Surfing,M,44,Large Predatory Sharks,N
+2011.0,Unprovoked,SOUTH AFRICA,Surfing,M,49,Large Predatory Sharks,Y
+2011.0,Provoked,AUSTRALIA,Fishing,M,36,Large Predatory Sharks,N
+2009.0,Unprovoked,USA,Swimming,M,26,Other Category,N
+2008.0,Unprovoked,BRAZIL,Swimming,M,14,Large Predatory Sharks,N
+2007.0,Unprovoked,SOUTH AFRICA,Surfing,M,37,Large Predatory Sharks,N
+2007.0,Unprovoked,USA,Swimming,M,52,Other Category,N
+2006.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+2004.0,Unprovoked,USA,Spearfishing,M,34,Large Predatory Sharks,N
+2004.0,Unprovoked,USA,Surfing,M,40,Other Category,N
+2004.0,Unprovoked,USA,Surfing,M,45,Large Predatory Sharks,N
+2003.0,Unprovoked,AUSTRALIA,Surfing,M,22,Other Named Sharks,N
+1997.0,Unprovoked,AUSTRALIA,Surfing,M,19,Other Category,N
+1997.0,Unprovoked,AUSTRALIA,Swimming,F,21,Small Sharks (Size-Based),N
+1995.0,Unprovoked,USA,Surfing,M,34,Other Category,N
+1989.0,Unprovoked,USA,Spearfishing,M,45,Large Predatory Sharks,N
+1986.0,Unprovoked,SOUTH AFRICA,Surfing,M,21,Large Predatory Sharks,N
+1985.0,Unprovoked,USA,Surfing,M,15,Other Category,N
+1984.0,Unprovoked,USA,Surfing,M,15,Large Predatory Sharks,N
+1980.0,Unprovoked,SOUTH AFRICA,Surfing,M,22,Other Category,N
+1978.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,23,Large Predatory Sharks,Y
+1977.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,25,Large Predatory Sharks,N
+1974.0,Unprovoked,SOUTH AFRICA,Swimming,M,19,Other Category,N
+1971.0,Unprovoked,SOUTH AFRICA,Swimming,F,16,Large Predatory Sharks,N
+1967.0,Unprovoked,USA,Spearfishing,M,15,Other Named Sharks,N
+1965.0,Unprovoked,MEXICO,Swimming,M,38,Other Category,N
+1961.0,Unprovoked,AUSTRALIA,Spearfishing,M,24,Large Predatory Sharks,N
+1959.0,Unprovoked,USA,Swimming,M,13,Other Category,N
+1956.0,Unprovoked,PAPUA NEW GUINEA,Fishing,M,34,Large Sharks (Size-Based),Y
+2022.0,Provoked,USA,Fishing,M,15,Other Named Sharks,N
+2021.0,Unprovoked,USA,Swimming,F,7,Other Category,N
+2017.0,Unprovoked,AUSTRALIA,Surfing,M,37,Large Predatory Sharks,N
+2016.0,Provoked,USA,Fishing,M,59,Other Category,N
+2015.0,Unprovoked,USA,Surfing,M,28,Large Sharks (Size-Based),N
+2015.0,Unprovoked,USA,Swimming,M,6,Large Predatory Sharks,N
+2014.0,Unprovoked,AUSTRALIA,Surfing,M,23,Large Predatory Sharks,N
+2014.0,Provoked,USA,Fishing,M,52,Small Sharks (Size-Based),N
+2013.0,Unprovoked,BRAZIL,Swimming,F,18,Other Category,Y
+2013.0,Unprovoked,USA,Swimming,M,50,Other Category,N
+2012.0,Unprovoked,AUSTRALIA,Spearfishing,M,34,Large Predatory Sharks,N
+2011.0,Unprovoked,USA,Surfing,M,37,Other Category,N
+2010.0,Unprovoked,AUSTRALIA,Surfing,M,15,Other Category,N
+2009.0,Provoked,AUSTRALIA,Swimming,M,55,Other Category,N
+2009.0,Unprovoked,USA,Fishing,M,31,Other Category,N
+2009.0,Unprovoked,SOUTH AFRICA,Surfing,M,37,Other Category,N
+2009.0,Unprovoked,USA,Surfing,M,49,Other Category,N
+2008.0,Provoked,SOUTH AFRICA,Fishing,M,15,Other Named Sharks,N
+2008.0,Unprovoked,USA,Surfing,M,30,Small Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Swimming,M,30,Other Category,N
+2007.0,Unprovoked,AUSTRALIA,Surfing,M,19,Large Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Surfing,M,29,Other Category,N
+2006.0,Unprovoked,USA,Surfing,M,23,Other Category,N
+2006.0,Unprovoked,USA,Spearfishing,F,28,Other Category,N
+2005.0,Unprovoked,USA,Swimming,M,33,Small Sharks (Size-Based),N
+2005.0,Provoked,AUSTRALIA,Fishing,M,25,Large Predatory Sharks,N
+2002.0,Unprovoked,BRAZIL,Swimming,M,36,Large Predatory Sharks,Y
+1998.0,Unprovoked,USA,Swimming,M,9,Large Predatory Sharks,Y
+1996.0,Unprovoked,USA,Surfing,M,31,Large Predatory Sharks,N
+1995.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+1994.0,Unprovoked,USA,Spearfishing,M,35,Large Sharks (Size-Based),N
+1993.0,Unprovoked,USA,Surfing,M,29,Large Predatory Sharks,N
+1990.0,Unprovoked,USA,Surfing,M,25,Small Sharks (Size-Based),N
+1990.0,Unprovoked,USA,Surfing,M,19,Large Sharks (Size-Based),N
+1990.0,Unprovoked,AUSTRALIA,Surfing,M,29,Large Sharks (Size-Based),N
+1989.0,Unprovoked,USA,Surfing,M,31,Other Category,N
+1988.0,Unprovoked,SOUTH AFRICA,Surfing,M,20,Other Category,N
+1985.0,Unprovoked,SOUTH AFRICA,Swimming,M,15,Other Named Sharks,N
+1978.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,27,Large Predatory Sharks,N
+1974.0,Unprovoked,USA,Swimming,M,17,Small Sharks (Size-Based),Y
+1974.0,Unprovoked,USA,Swimming,F,11,Other Category,N
+1974.0,Unprovoked,SOUTH AFRICA,Swimming,M,33,Large Sharks (Size-Based),N
+1969.0,Unprovoked,USA,Surfing,M,15,Other Category,N
+1967.0,Provoked,USA,Spearfishing,M,26,Other Named Sharks,N
+1960.0,Unprovoked,PAPUA NEW GUINEA,Fishing,M,20,Other Category,N
+1956.0,Unprovoked,AUSTRALIA,Swimming,M,8,Other Category,N
+1950.0,Unprovoked,USA,Swimming,M,11,Large Predatory Sharks,N
+1947.0,Unprovoked,SOUTH AFRICA,Swimming,M,20,Other Category,N
+1941.0,Provoked,AUSTRALIA,Fishing,M,34,Other Category,N
+1937.0,Unprovoked,AUSTRALIA,Swimming,M,18,Large Predatory Sharks,Y
+1932.0,Provoked,USA,Fishing,M,32,Other Category,N
+2022.0,Unprovoked,USA,Swimming,M,68,Other Category,N
+2021.0,Unprovoked,USA,Swimming,M,38,Large Predatory Sharks,N
+2021.0,Unprovoked,USA,Surfing,F,64,Other Category,N
+2020.0,Unprovoked,USA,Surfing,F,15,Other Category,N
+2020.0,Unprovoked,AUSTRALIA,Swimming,F,7,Other Named Sharks,N
+2015.0,Unprovoked,AUSTRALIA,Surfing,M,38,Other Category,N
+2014.0,Unprovoked,USA,Fishing,M,43,Large Predatory Sharks,N
+2013.0,Unprovoked,USA,Swimming,M,17,Other Category,N
+2013.0,Unprovoked,USA,Surfing,M,43,Large Predatory Sharks,N
+2012.0,Unprovoked,USA,Surfing,M,25,Large Predatory Sharks,N
+2012.0,Unprovoked,USA,Surfing,M,24,Other Category,N
+2012.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+2012.0,Unprovoked,SOUTH AFRICA,Swimming,M,25,Large Predatory Sharks,Y
+2011.0,Unprovoked,AUSTRALIA,Swimming,M,64,Other Category,Y
+2011.0,Unprovoked,SOUTH AFRICA,Swimming,M,43,Large Predatory Sharks,N
+2010.0,Unprovoked,AUSTRALIA,Surfing,M,22,Large Predatory Sharks,N
+2009.0,Unprovoked,USA,Surfing,M,22,Other Category,N
+2008.0,Unprovoked,USA,Surfing,M,29,Other Category,N
+2008.0,Unprovoked,USA,Surfing,M,20,Small Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Surfing,M,16,Large Predatory Sharks,N
+2007.0,Unprovoked,BAHAMAS,Spearfishing,F,48,Large Predatory Sharks,N
+2006.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+2005.0,Unprovoked,AUSTRALIA,Surfing,M,44,Large Predatory Sharks,N
+2004.0,Unprovoked,SOUTH AFRICA,Swimming,F,77,Large Predatory Sharks,Y
+2004.0,Unprovoked,AUSTRALIA,Spearfishing,M,47,Large Predatory Sharks,N
+2003.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+2003.0,Unprovoked,BAHAMAS,Spearfishing,M,58,Other Category,N
+2003.0,Unprovoked,BRAZIL,Swimming,M,7,Other Category,N
+2002.0,Unprovoked,USA,Fishing,M,31,Large Sharks (Size-Based),N
+2002.0,Unprovoked,AUSTRALIA,Swimming,M,45,Other Category,N
+2001.0,Unprovoked,USA,Surfing,F,17,Other Category,N
+2001.0,Unprovoked,USA,Surfing,M,12,Other Category,N
+2001.0,Unprovoked,USA,Surfing,M,19,Other Category,N
+1998.0,Unprovoked,USA,Surfing,M,6,Other Category,N
+1998.0,Unprovoked,USA,Surfing,M,40,Other Named Sharks,N
+1997.0,Unprovoked,USA,Swimming,F,14,Other Category,N
+1997.0,Unprovoked,BRAZIL,Swimming,M,20,Other Category,Y
+1995.0,Unprovoked,USA,Surfing,M,15,Large Predatory Sharks,N
+1995.0,Unprovoked,AUSTRALIA,Surfing,M,35,Large Predatory Sharks,N
+1994.0,Unprovoked,USA,Surfing,M,23,Large Sharks (Size-Based),N
+1986.0,Unprovoked,USA,Surfing,M,40,Large Predatory Sharks,N
+1984.0,Unprovoked,USA,Swimming,F,18,Large Sharks (Size-Based),N
+1982.0,Unprovoked,SOUTH AFRICA,Surfing,M,27,Large Predatory Sharks,Y
+1979.0,Provoked,SOUTH AFRICA,Spearfishing,M,25,Large Predatory Sharks,N
+1978.0,Provoked,USA,Fishing,M,27,Other Category,N
+1973.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,26,Large Predatory Sharks,N
+1972.0,Unprovoked,AUSTRALIA,Spearfishing,M,24,Other Category,N
+1971.0,Unprovoked,MEXICO,Surfing,M,19,Other Category,Y
+1966.0,Unprovoked,AUSTRALIA,Spearfishing,M,19,Other Named Sharks,N
+1961.0,Unprovoked,SOUTH AFRICA,Swimming,M,15,Large Predatory Sharks,N
+1952.0,Provoked,USA,Fishing,M,34,Other Category,N
+1946.0,Unprovoked,AUSTRALIA,Swimming,F,14,Other Category,Y
+1944.0,Unprovoked,SOUTH AFRICA,Swimming,M,17,Large Predatory Sharks,Y
+1935.0,Unprovoked,USA,Swimming,M,38,Other Category,Y
+1933.0,Unprovoked,AUSTRALIA,Swimming,M,38,Other Category,Y
+1931.0,Unprovoked,AUSTRALIA,Swimming,M,18,Large Sharks (Size-Based),N
+1927.0,Unprovoked,AUSTRALIA,Swimming,M,15,Large Sharks (Size-Based),Y
+1923.0,Unprovoked,USA,Swimming,M,25,Other Category,N
+1919.0,Unprovoked,AUSTRALIA,Swimming,M,29,Other Category,N
+1912.0,Unprovoked,AUSTRALIA,Swimming,M,18,Other Category,N
+2022.0,Unprovoked,AUSTRALIA,Surfing,M,32,Large Predatory Sharks,N
+2022.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+2020.0,Unprovoked,USA,Surfing,M,56,Large Predatory Sharks,Y
+2020.0,Unprovoked,USA,Surfing,M,12,Other Category,N
+2020.0,Unprovoked,USA,Surfing,F,22,Other Category,N
+2019.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+2019.0,Unprovoked,USA,Surfing,M,46,Small Sharks (Size-Based),N
+2018.0,Unprovoked,USA,Surfing,M,14,Other Category,N
+2018.0,Unprovoked,USA,Spearfishing,M,42,Large Predatory Sharks,N
+2018.0,Unprovoked,USA,Surfing,M,14,Other Category,N
+2018.0,Unprovoked,AUSTRALIA,Surfing,M,37,Other Category,N
+2017.0,Unprovoked,AUSTRALIA,Surfing,M,35,Large Predatory Sharks,N
+2016.0,Unprovoked,USA,Surfing,F,15,Other Category,N
+2013.0,Unprovoked,USA,Swimming,F,45,Other Category,N
+2013.0,Unprovoked,SOUTH AFRICA,Swimming,M,39,Other Category,N
+2012.0,Unprovoked,USA,Swimming,F,51,Large Predatory Sharks,N
+2011.0,Unprovoked,AUSTRALIA,Swimming,M,10,Other Named Sharks,N
+2010.0,Unprovoked,USA,Surfing,M,46,Other Category,N
+2009.0,Unprovoked,USA,Swimming,F,22,Large Predatory Sharks,N
+2006.0,Unprovoked,USA,Swimming,M,13,Other Category,N
+2006.0,Unprovoked,USA,Spearfishing,M,35,Other Category,N
+2005.0,Unprovoked,USA,Surfing,M,26,Large Predatory Sharks,N
+2005.0,Unprovoked,AUSTRALIA,Surfing,M,40,Large Predatory Sharks,N
+2004.0,Unprovoked,USA,Swimming,F,13,Other Category,N
+2004.0,Unprovoked,USA,Surfing,M,57,Large Predatory Sharks,Y
+2003.0,Unprovoked,USA,Surfing,F,35,Small Sharks (Size-Based),N
+2003.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+2003.0,Unprovoked,AUSTRALIA,Swimming,M,84,Large Predatory Sharks,Y
+2002.0,Unprovoked,AUSTRALIA,Swimming,M,23,Large Predatory Sharks,Y
+2002.0,Unprovoked,USA,Swimming,F,60,Small Sharks (Size-Based),N
+2002.0,Provoked,USA,Surfing,M,19,Other Category,N
+2002.0,Unprovoked,SOUTH AFRICA,Fishing,M,16,Large Predatory Sharks,N
+2001.0,Unprovoked,USA,Swimming,M,28,Large Predatory Sharks,Y
+2001.0,Unprovoked,USA,Surfing,M,21,Other Category,N
+2000.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+2000.0,Unprovoked,USA,Swimming,M,44,Large Predatory Sharks,N
+1999.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1999.0,Unprovoked,SOUTH AFRICA,Surfing,M,29,Large Predatory Sharks,N
+1997.0,Unprovoked,USA,Surfing,M,17,Large Predatory Sharks,N
+1997.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+1997.0,Unprovoked,USA,Surfing,M,34,Other Category,N
+1994.0,Unprovoked,USA,Surfing,M,43,Large Predatory Sharks,N
+1992.0,Unprovoked,SOUTH AFRICA,Surfing,M,35,Large Sharks (Size-Based),N
+1992.0,Unprovoked,SOUTH AFRICA,Swimming,M,19,Large Predatory Sharks,N
+1989.0,Unprovoked,SOUTH AFRICA,Surfing,M,34,Large Predatory Sharks,N
+1988.0,Unprovoked,USA,Surfing,M,31,Other Category,N
+1987.0,Unprovoked,USA,Surfing,M,16,Large Predatory Sharks,N
+1984.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1984.0,Unprovoked,USA,Swimming,F,13,Other Category,N
+1984.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,28,Other Category,N
+1981.0,Provoked,USA,Spearfishing,M,19,Other Category,N
+1980.0,Unprovoked,BRAZIL,Swimming,M,16,Other Category,Y
+1978.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+1977.0,Unprovoked,SOUTH AFRICA,Surfing,M,18,Large Predatory Sharks,N
+1976.0,Unprovoked,USA,Surfing,M,19,Large Predatory Sharks,N
+1974.0,Unprovoked,SOUTH AFRICA,Surfing,M,17,Other Category,N
+1957.0,Unprovoked,USA,Swimming,M,57,Large Predatory Sharks,Y
+1946.0,Unprovoked,AUSTRALIA,Swimming,M,15,Other Category,N
+1940.0,Unprovoked,SOUTH AFRICA,Swimming,M,17,Large Predatory Sharks,Y
+1922.0,Unprovoked,AUSTRALIA,Swimming,M,18,Large Predatory Sharks,Y
+2023.0,Unprovoked,USA,Surfing,M,22,Other Category,N
+2022.0,Unprovoked,AUSTRALIA,Surfing,M,17,Other Category,N
+2022.0,Unprovoked,USA,Surfing,M,28,Other Category,N
+2022.0,Unprovoked,USA,Swimming,M,62,Large Predatory Sharks,N
+2021.0,Unprovoked,NEW ZEALAND,Swimming,M,61,Other Category,N
+2020.0,Unprovoked,USA,Spearfishing,M,23,Small Sharks (Size-Based),N
+2019.0,Unprovoked,USA,Swimming,M,8,Other Category,N
+2017.0,Unprovoked,USA,Surfing,F,14,Other Category,N
+2017.0,Unprovoked,USA,Swimming,M,22,Other Category,N
+2016.0,Unprovoked,USA,Surfing,M,22,Large Predatory Sharks,N
+2016.0,Unprovoked,USA,Surfing,M,11,Other Category,N
+2016.0,Unprovoked,AUSTRALIA,Surfing,M,29,Large Predatory Sharks,Y
+2016.0,Unprovoked,USA,Swimming,F,22,Large Predatory Sharks,N
+2016.0,Unprovoked,BRAZIL,Swimming,M,41,Large Predatory Sharks,N
+2014.0,Unprovoked,USA,Surfing,F,34,Large Predatory Sharks,N
+2014.0,Unprovoked,USA,Swimming,F,22,Large Predatory Sharks,N
+2013.0,Unprovoked,AUSTRALIA,Surfing,M,41,Other Named Sharks,N
+2013.0,Unprovoked,USA,Surfing,M,25,Large Predatory Sharks,N
+2012.0,Unprovoked,MEXICO,Swimming,M,32,Large Sharks (Size-Based),Y
+2012.0,Unprovoked,USA,Surfing,M,17,Small Sharks (Size-Based),N
+2012.0,Unprovoked,USA,Surfing,M,53,Large Predatory Sharks,N
+2011.0,Unprovoked,USA,Surfing,M,27,Large Predatory Sharks,N
+2010.0,Unprovoked,AUSTRALIA,Surfing,M,47,Other Category,N
+2009.0,Unprovoked,USA,Surfing,M,21,Other Category,N
+2009.0,Unprovoked,AUSTRALIA,Surfing,M,41,Large Predatory Sharks,N
+2008.0,Unprovoked,USA,Fishing,M,11,Other Category,N
+2008.0,Unprovoked,USA,Swimming,M,37,Small Sharks (Size-Based),N
+2006.0,Unprovoked,BAHAMAS,Spearfishing,M,25,Other Category,N
+2006.0,Unprovoked,USA,Surfing,F,22,Small Sharks (Size-Based),N
+2005.0,Unprovoked,USA,Surfing,M,23,Small Sharks (Size-Based),N
+2003.0,Unprovoked,USA,Surfing,M,33,Other Category,N
+2002.0,Unprovoked,USA,Surfing,M,16,Large Predatory Sharks,N
+2001.0,Unprovoked,SOUTH AFRICA,Surfing,M,26,Large Predatory Sharks,N
+2001.0,Unprovoked,SOUTH AFRICA,Surfing,M,46,Large Predatory Sharks,N
+2000.0,Unprovoked,AUSTRALIA,Surfing,M,25,Large Predatory Sharks,Y
+1999.0,Unprovoked,USA,Surfing,M,14,Other Category,N
+1998.0,Unprovoked,USA,Surfing,M,26,Small Sharks (Size-Based),N
+1997.0,Unprovoked,USA,Surfing,M,12,Other Category,N
+1996.0,Unprovoked,USA,Surfing,M,22,Large Sharks (Size-Based),N
+1995.0,Unprovoked,SOUTH AFRICA,Swimming,M,22,Other Named Sharks,N
+1995.0,Unprovoked,SOUTH AFRICA,Swimming,M,14,Large Predatory Sharks,Y
+1994.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+1993.0,Unprovoked,SOUTH AFRICA,Surfing,M,28,Large Predatory Sharks,N
+1991.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+1990.0,Unprovoked,USA,Surfing,M,24,Small Sharks (Size-Based),N
+1987.0,Unprovoked,USA,Surfing,M,20,Large Sharks (Size-Based),N
+1986.0,Unprovoked,SOUTH AFRICA,Swimming,M,46,Other Named Sharks,N
+1983.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1977.0,Unprovoked,SOUTH AFRICA,Swimming,M,31,Other Category,N
+1975.0,Unprovoked,SOUTH AFRICA,Surfing,M,16,Large Sharks (Size-Based),N
+1964.0,Unprovoked,NEW ZEALAND,Spearfishing,M,26,Large Predatory Sharks,N
+1962.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,30,Other Category,N
+1962.0,Provoked,PAPUA NEW GUINEA,Fishing,M,49,Other Category,N
+1961.0,Unprovoked,AUSTRALIA,Spearfishing,M,21,Large Predatory Sharks,N
+1960.0,Unprovoked,NEW ZEALAND,Spearfishing,M,22,Large Predatory Sharks,N
+1958.0,Unprovoked,PAPUA NEW GUINEA,Swimming,M,38,Other Category,Y
+1953.0,Provoked,AUSTRALIA,Fishing,M,61,Other Category,N
+1951.0,Unprovoked,AUSTRALIA,Swimming,M,14,Large Sharks (Size-Based),N
+1949.0,Unprovoked,AUSTRALIA,Swimming,M,34,Other Category,Y
+1946.0,Unprovoked,SOUTH AFRICA,Swimming,M,18,Other Category,N
+1930.0,Unprovoked,USA,Swimming,M,21,Large Predatory Sharks,N
+2023.0,Unprovoked,BRAZIL,Surfing,M,32,Other Category,N
+2022.0,Unprovoked,AUSTRALIA,Spearfishing,M,17,Large Predatory Sharks,N
+2021.0,Unprovoked,AUSTRALIA,Swimming,M,7,Other Category,N
+2019.0,Unprovoked,USA,Surfing,M,30,Large Predatory Sharks,N
+2019.0,Unprovoked,AUSTRALIA,Spearfishing,M,25,Other Category,N
+2018.0,Unprovoked,SOUTH AFRICA,Fishing,M,41,Large Predatory Sharks,N
+2018.0,Unprovoked,USA,Surfing,M,39,Other Category,N
+2015.0,Unprovoked,SOUTH AFRICA,Surfing,M,23,Large Predatory Sharks,N
+2012.0,Unprovoked,USA,Swimming,F,18,Large Predatory Sharks,N
+2009.0,Unprovoked,AUSTRALIA,Surfing,F,13,Large Predatory Sharks,N
+2008.0,Unprovoked,MEXICO,Swimming,M,33,Other Category,N
+2008.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+2008.0,Unprovoked,USA,Surfing,F,14,Other Category,N
+2008.0,Unprovoked,USA,Surfing,M,52,Small Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Surfing,M,21,Small Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Surfing,M,24,Large Predatory Sharks,N
+2004.0,Unprovoked,SOUTH AFRICA,Surfing,M,34,Other Named Sharks,N
+2003.0,Unprovoked,USA,Swimming,M,20,Large Sharks (Size-Based),N
+2001.0,Unprovoked,USA,Surfing,M,27,Other Category,N
+2001.0,Unprovoked,AUSTRALIA,Surfing,M,40,Large Predatory Sharks,N
+2000.0,Unprovoked,AUSTRALIA,Spearfishing,M,38,Large Predatory Sharks,N
+2000.0,Unprovoked,AUSTRALIA,Surfing,M,17,Large Predatory Sharks,Y
+1998.0,Unprovoked,AUSTRALIA,Surfing,F,21,Other Category,N
+1998.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+1997.0,Unprovoked,USA,Surfing,M,12,Other Category,N
+1995.0,Unprovoked,USA,Swimming,F,7,Other Category,N
+1986.0,Unprovoked,USA,Surfing,M,28,Large Predatory Sharks,N
+1981.0,Unprovoked,SOUTH AFRICA,Surfing,M,24,Large Predatory Sharks,N
+1977.0,Unprovoked,AUSTRALIA,Surfing,M,17,Large Predatory Sharks,N
+1976.0,Unprovoked,USA,Surfing,M,15,Large Predatory Sharks,N
+1974.0,Unprovoked,SOUTH AFRICA,Surfing,M,21,Other Category,N
+1970.0,Unprovoked,MEXICO,Swimming,M,22,Other Category,N
+1967.0,Unprovoked,AUSTRALIA,Swimming,M,59,Other Category,Y
+1967.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,32,Large Predatory Sharks,N
+1966.0,Unprovoked,USA,Swimming,M,25,Other Category,N
+1962.0,Unprovoked,SOUTH AFRICA,Swimming,M,22,Other Category,Y
+1958.0,Unprovoked,BAHAMAS,Fishing,M,42,Other Category,N
+1957.0,Unprovoked,AUSTRALIA,Surfing,M,15,Other Named Sharks,N
+1954.0,Unprovoked,AUSTRALIA,Swimming,M,23,Other Category,Y
+1948.0,Unprovoked,USA,Swimming,M,46,Other Category,Y
+1933.0,Unprovoked,USA,Swimming,M,24,Large Predatory Sharks,Y
+2023.0,Unprovoked,USA,Surfing,M,60,Other Category,N
+2022.0,Unprovoked,AUSTRALIA,Swimming,M,36,Other Category,Y
+2020.0,Unprovoked,AUSTRALIA,Surfing,M,28,Large Predatory Sharks,N
+2019.0,Unprovoked,USA,Swimming,M,49,Other Category,N
+2019.0,Provoked,SOUTH AFRICA,Fishing,M,46,Large Sharks (Size-Based),N
+2018.0,Unprovoked,AUSTRALIA,Surfing,M,24,Other Category,N
+2018.0,Unprovoked,AUSTRALIA,Swimming,F,55,Large Predatory Sharks,N
+2016.0,Unprovoked,AUSTRALIA,Surfing,M,41,Other Category,N
+2015.0,Unprovoked,AUSTRALIA,Surfing,M,20,Large Predatory Sharks,N
+2013.0,Unprovoked,SOUTH AFRICA,Surfing,M,19,Large Predatory Sharks,N
+2013.0,Unprovoked,USA,Swimming,M,15,Other Category,N
+2012.0,Unprovoked,SOUTH AFRICA,Swimming,M,20,Large Predatory Sharks,Y
+2012.0,Unprovoked,USA,Surfing,M,26,Other Category,N
+2011.0,Unprovoked,USA,Spearfishing,M,28,Large Sharks (Size-Based),N
+2011.0,Unprovoked,USA,Surfing,M,49,Other Category,N
+2011.0,Unprovoked,NEW ZEALAND,Surfing,M,41,Large Predatory Sharks,N
+2010.0,Unprovoked,USA,Swimming,M,27,Small Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Surfing,M,11,Small Sharks (Size-Based),N
+2006.0,Unprovoked,USA,Surfing,M,43,Large Predatory Sharks,N
+2005.0,Unprovoked,USA,Surfing,M,61,Other Category,N
+2005.0,Unprovoked,USA,Fishing,M,16,Large Predatory Sharks,N
+2002.0,Unprovoked,USA,Surfing,M,32,Other Category,N
+2001.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+2001.0,Unprovoked,USA,Swimming,M,8,Large Predatory Sharks,N
+2000.0,Unprovoked,USA,Swimming,M,8,Other Category,N
+1995.0,Unprovoked,USA,Swimming,M,45,Other Category,N
+1995.0,Unprovoked,USA,Swimming,F,10,Other Category,N
+1994.0,Unprovoked,BAHAMAS,Spearfishing,M,30,Other Category,N
+1992.0,Unprovoked,USA,Surfing,M,22,Large Predatory Sharks,N
+1991.0,Unprovoked,USA,Surfing,M,32,Large Predatory Sharks,N
+1989.0,Unprovoked,AUSTRALIA,Surfing,M,32,Large Predatory Sharks,N
+1988.0,Unprovoked,USA,Surfing,M,23,Large Sharks (Size-Based),N
+1985.0,Provoked,USA,Fishing,M,24,Other Category,N
+1983.0,Unprovoked,USA,Swimming,M,42,Other Category,N
+1981.0,Unprovoked,USA,Surfing,M,15,Large Predatory Sharks,N
+1979.0,Unprovoked,USA,Surfing,M,20,Large Predatory Sharks,N
+1979.0,Unprovoked,USA,Swimming,M,24,Other Category,N
+1975.0,Unprovoked,AUSTRALIA,Surfing,M,20,Other Category,N
+1972.0,Unprovoked,AUSTRALIA,Surfing,M,19,Large Predatory Sharks,N
+1972.0,Unprovoked,USA,Surfing,M,22,Small Sharks (Size-Based),N
+1967.0,Unprovoked,PAPUA NEW GUINEA,Spearfishing,M,23,Large Sharks (Size-Based),Y
+1966.0,Provoked,AUSTRALIA,Spearfishing,M,29,Other Named Sharks,N
+1965.0,Unprovoked,USA,Swimming,M,15,Other Category,N
+1961.0,Unprovoked,SOUTH AFRICA,Swimming,M,14,Large Predatory Sharks,Y
+1956.0,Unprovoked,PAPUA NEW GUINEA,Spearfishing,M,19,Large Predatory Sharks,Y
+1956.0,Unprovoked,PAPUA NEW GUINEA,Spearfishing,M,16,Other Category,Y
+1951.0,Provoked,AUSTRALIA,Spearfishing,M,18,Other Named Sharks,N
+1939.0,Unprovoked,AUSTRALIA,Swimming,M,20,Large Sharks (Size-Based),Y
+1936.0,Watercraft,USA,Fishing,M,13,Other Category,N
+1931.0,Unprovoked,USA,Swimming,F,20,Large Predatory Sharks,N
+2021.0,Unprovoked,NEW ZEALAND,Swimming,F,19,Other Category,Y
+2020.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+2020.0,Unprovoked,AUSTRALIA,Surfing,M,13,Other Category,N
+2020.0,Unprovoked,USA,Surfing,M,14,Small Sharks (Size-Based),N
+2020.0,Unprovoked,AUSTRALIA,Surfing,M,15,Large Predatory Sharks,Y
+2020.0,Unprovoked,AUSTRALIA,Surfing,M,38,Other Category,N
+2020.0,Unprovoked,AUSTRALIA,Surfing,M,59,Small Sharks (Size-Based),N
+2017.0,Unprovoked,USA,Swimming,M,16,Other Category,N
+2016.0,Unprovoked,USA,Swimming,F,11,Other Category,N
+2016.0,Unprovoked,BRAZIL,Swimming,M,41,Large Predatory Sharks,N
+2015.0,Unprovoked,USA,Surfing,F,54,Large Predatory Sharks,N
+2015.0,Unprovoked,USA,Surfing,M,21,Large Predatory Sharks,N
+2014.0,Unprovoked,AUSTRALIA,Spearfishing,M,31,Other Category,N
+2014.0,Unprovoked,USA,Surfing,M,14,Other Category,N
+2014.0,Unprovoked,USA,Surfing,M,12,Other Category,N
+2012.0,Unprovoked,USA,Surfing,M,43,Large Predatory Sharks,N
+2012.0,Unprovoked,AUSTRALIA,Surfing,M,24,Large Predatory Sharks,Y
+2012.0,Unprovoked,USA,Swimming,M,12,Other Category,N
+2012.0,Unprovoked,USA,Swimming,M,16,Large Predatory Sharks,N
+2012.0,Unprovoked,USA,Surfing,M,28,Large Predatory Sharks,N
+2011.0,Unprovoked,USA,Surfing,M,21,Other Category,N
+2010.0,Unprovoked,USA,Spearfishing,M,32,Other Category,N
+2007.0,Unprovoked,USA,Surfing,M,23,Small Sharks (Size-Based),N
+2006.0,Unprovoked,USA,Surfing,M,24,Small Sharks (Size-Based),N
+2006.0,Provoked,USA,Fishing,M,35,Large Predatory Sharks,N
+2006.0,Unprovoked,USA,Surfing,M,21,Small Sharks (Size-Based),N
+2005.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+2003.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+2002.0,Unprovoked,USA,Surfing,M,21,Other Category,N
+2002.0,Unprovoked,USA,Swimming,F,11,Other Category,N
+2002.0,Unprovoked,USA,Surfing,M,50,Other Category,N
+2001.0,Provoked,USA,Fishing,M,44,Other Category,N
+2001.0,Unprovoked,BAHAMAS,Spearfishing,M,44,Large Predatory Sharks,N
+2001.0,Unprovoked,USA,Surfing,M,48,Other Category,N
+2001.0,Unprovoked,MEXICO,Surfing,M,42,Other Category,N
+2001.0,Unprovoked,AUSTRALIA,Surfing,M,40,Large Predatory Sharks,N
+2000.0,Unprovoked,SOUTH AFRICA,Surfing,M,15,Other Category,N
+2000.0,Unprovoked,USA,Surfing,M,17,Large Predatory Sharks,N
+1999.0,Unprovoked,USA,Surfing,M,28,Small Sharks (Size-Based),N
+1999.0,Unprovoked,USA,Surfing,M,43,Large Predatory Sharks,N
+1995.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1992.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,36,Large Predatory Sharks,N
+1989.0,Unprovoked,AUSTRALIA,Swimming,F,31,Other Category,N
+1988.0,Unprovoked,AUSTRALIA,Surfing,M,38,Large Sharks (Size-Based),N
+1985.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+1983.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,29,Large Predatory Sharks,N
+1981.0,Unprovoked,USA,Surfing,M,24,Other Category,N
+1981.0,Unprovoked,USA,Surfing,M,15,Other Category,N
+1975.0,Unprovoked,AUSTRALIA,Surfing,M,21,Large Sharks (Size-Based),N
+1975.0,Unprovoked,USA,Swimming,F,14,Large Sharks (Size-Based),N
+1975.0,Provoked,AUSTRALIA,Spearfishing,M,29,Large Sharks (Size-Based),N
+1973.0,Unprovoked,USA,Surfing,M,13,Other Category,N
+1964.0,Unprovoked,AUSTRALIA,Surfing,M,19,Other Category,N
+1954.0,Unprovoked,AUSTRALIA,Spearfishing,M,30,Other Category,N
+1947.0,Unprovoked,AUSTRALIA,Swimming,M,13,Other Category,N
+1937.0,Provoked,AUSTRALIA,Fishing,M,20,Small Sharks (Size-Based),N
+1935.0,Unprovoked,AUSTRALIA,Swimming,M,27,Large Predatory Sharks,Y
+1927.0,Unprovoked,AUSTRALIA,Swimming,M,10,Other Category,Y
+1913.0,Unprovoked,AUSTRALIA,Swimming,M,12,Other Category,N
+2021.0,Unprovoked,AUSTRALIA,Swimming,M,57,Other Category,Y
+2021.0,Unprovoked,AUSTRALIA,Surfing,M,31,Other Category,Y
+2021.0,Unprovoked,USA,Swimming,M,14,Large Sharks (Size-Based),N
+2021.0,Unprovoked,AUSTRALIA,Spearfishing,M,27,Large Predatory Sharks,N
+2020.0,Unprovoked,AUSTRALIA,Surfing,F,35,Large Predatory Sharks,N
+2020.0,Unprovoked,AUSTRALIA,Fishing,M,10,Large Predatory Sharks,N
+2019.0,Unprovoked,USA,Surfing,M,37,Other Category,N
+2019.0,Unprovoked,USA,Surfing,M,19,Large Predatory Sharks,N
+2018.0,Unprovoked,USA,Surfing,M,29,Other Category,N
+2018.0,Unprovoked,AUSTRALIA,Swimming,M,69,Large Sharks (Size-Based),N
+2016.0,Unprovoked,AUSTRALIA,Surfing,M,17,Large Predatory Sharks,N
+2016.0,Unprovoked,USA,Surfing,M,25,Large Predatory Sharks,N
+2015.0,Unprovoked,USA,Surfing,M,14,Large Predatory Sharks,N
+2013.0,Unprovoked,AUSTRALIA,Surfing,M,35,Large Predatory Sharks,Y
+2012.0,Unprovoked,BRAZIL,Swimming,M,18,Other Category,Y
+2010.0,Unprovoked,AUSTRALIA,Surfing,M,40,Other Category,N
+2009.0,Unprovoked,USA,Swimming,F,26,Other Category,N
+2008.0,Provoked,USA,Surfing,M,15,Other Category,N
+2008.0,Unprovoked,BAHAMAS,Spearfishing,M,42,Large Predatory Sharks,N
+2008.0,Provoked,SOUTH AFRICA,Fishing,M,24,Other Category,N
+2007.0,Unprovoked,USA,Surfing,M,52,Large Predatory Sharks,N
+2007.0,Provoked,AUSTRALIA,Fishing,M,32,Other Category,N
+2007.0,Unprovoked,SOUTH AFRICA,Surfing,M,14,Large Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Surfing,M,42,Small Sharks (Size-Based),N
+2007.0,Unprovoked,USA,Surfing,M,24,Large Predatory Sharks,N
+2006.0,Unprovoked,USA,Swimming,M,29,Large Sharks (Size-Based),N
+2005.0,Unprovoked,AUSTRALIA,Surfing,M,26,Large Predatory Sharks,N
+2005.0,Unprovoked,USA,Swimming,M,14,Other Category,N
+2004.0,Unprovoked,USA,Surfing,M,26,Large Predatory Sharks,N
+2004.0,Unprovoked,USA,Swimming,M,8,Large Sharks (Size-Based),N
+2004.0,Unprovoked,USA,Surfing,M,51,Large Predatory Sharks,N
+2003.0,Unprovoked,USA,Surfing,F,13,Large Predatory Sharks,N
+2003.0,Unprovoked,USA,Surfing,M,19,Other Category,N
+2002.0,Unprovoked,BRAZIL,Surfing,M,40,Other Category,N
+2002.0,Unprovoked,AUSTRALIA,Surfing,M,20,Large Predatory Sharks,N
+1999.0,Unprovoked,AUSTRALIA,Surfing,M,35,Large Predatory Sharks,N
+1998.0,Unprovoked,USA,Swimming,F,17,Other Category,N
+1998.0,Unprovoked,SOUTH AFRICA,Surfing,M,30,Other Category,N
+1987.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,30,Large Predatory Sharks,N
+1986.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1983.0,Unprovoked,USA,Surfing,M,15,Other Category,N
+1983.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,32,Large Predatory Sharks,N
+1974.0,Unprovoked,SOUTH AFRICA,Swimming,M,14,Other Category,N
+1968.0,Unprovoked,NEW ZEALAND,Spearfishing,M,24,Large Predatory Sharks,Y
+1966.0,Unprovoked,PAPUA NEW GUINEA,Swimming,F,25,Other Category,Y
+1963.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,24,Large Predatory Sharks,N
+1962.0,Unprovoked,AUSTRALIA,Surfing,M,19,Large Predatory Sharks,N
+1960.0,Unprovoked,PAPUA NEW GUINEA,Spearfishing,M,25,Other Category,N
+1955.0,Provoked,USA,Spearfishing,M,28,Large Sharks (Size-Based),N
+1953.0,Unprovoked,SOUTH AFRICA,Swimming,M,23,Other Category,N
+1951.0,Unprovoked,AUSTRALIA,Swimming,M,42,Other Category,Y
+1949.0,Provoked,USA,Fishing,M,16,Other Category,N
+1948.0,Unprovoked,AUSTRALIA,Swimming,M,17,Large Predatory Sharks,Y
+1947.0,Unprovoked,AUSTRALIA,Surfing,M,17,Other Category,N
+1944.0,Unprovoked,USA,Swimming,M,13,Other Category,N
+1944.0,Unprovoked,AUSTRALIA,Surfing,M,14,Other Category,N
+1940.0,Unprovoked,SOUTH AFRICA,Swimming,M,18,Large Sharks (Size-Based),Y
+1938.0,Unprovoked,AUSTRALIA,Swimming,M,19,Other Category,Y
+2022.0,Unprovoked,USA,Swimming,F,50,Large Predatory Sharks,N
+2022.0,Unprovoked,SOUTH AFRICA,Swimming,F,39,Large Predatory Sharks,Y
+2019.0,Unprovoked,AUSTRALIA,Surfing,M,17,Large Sharks (Size-Based),N
+2019.0,Unprovoked,USA,Surfing,F,28,Large Predatory Sharks,N
+2019.0,Unprovoked,MEXICO,Swimming,M,32,Other Category,N
+2018.0,Unprovoked,NEW ZEALAND,Surfing,M,25,Large Predatory Sharks,N
+2017.0,Unprovoked,USA,Swimming,F,14,Large Predatory Sharks,N
+2017.0,Unprovoked,USA,Swimming,F,21,Other Category,N
+2016.0,Unprovoked,USA,Surfing,M,15,Other Category,N
+2014.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+2014.0,Unprovoked,USA,Swimming,M,7,Large Predatory Sharks,N
+2012.0,Unprovoked,USA,Surfing,M,21,Small Sharks (Size-Based),N
+2012.0,Unprovoked,USA,Surfing,M,22,Small Sharks (Size-Based),N
+2010.0,Unprovoked,USA,Surfing,M,19,Small Sharks (Size-Based),N
+2010.0,Unprovoked,USA,Surfing,M,68,Small Sharks (Size-Based),N
+2009.0,Unprovoked,AUSTRALIA,Surfing,M,14,Other Category,N
+2009.0,Unprovoked,USA,Surfing,M,31,Other Category,N
+2008.0,Unprovoked,USA,Swimming,M,47,Other Category,N
+2006.0,Unprovoked,SOUTH AFRICA,Surfing,M,37,Large Predatory Sharks,N
+2006.0,Unprovoked,USA,Surfing,M,15,Other Category,N
+2003.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,21,Large Predatory Sharks,Y
+2003.0,Unprovoked,USA,Surfing,M,21,Large Sharks (Size-Based),N
+2002.0,Unprovoked,USA,Surfing,M,14,Other Category,N
+2002.0,Unprovoked,USA,Surfing,M,35,Small Sharks (Size-Based),N
+2001.0,Unprovoked,BRAZIL,Swimming,M,20,Other Category,Y
+1998.0,Unprovoked,SOUTH AFRICA,Surfing,M,10,Other Named Sharks,N
+1995.0,Unprovoked,USA,Surfing,M,19,Large Sharks (Size-Based),N
+1995.0,Unprovoked,USA,Surfing,M,19,Small Sharks (Size-Based),N
+1995.0,Unprovoked,BRAZIL,Surfing,M,18,Other Category,Y
+1993.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,36,Large Predatory Sharks,N
+1992.0,Unprovoked,USA,Surfing,M,19,Large Predatory Sharks,N
+1986.0,Unprovoked,USA,Surfing,M,22,Large Predatory Sharks,N
+1983.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+1982.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+1981.0,Unprovoked,USA,Swimming,M,26,Large Predatory Sharks,Y
+1981.0,Unprovoked,SOUTH AFRICA,Surfing,M,32,Other Category,N
+1980.0,Unprovoked,SOUTH AFRICA,Swimming,M,25,Other Named Sharks,N
+1976.0,Unprovoked,USA,Spearfishing,M,23,Large Sharks (Size-Based),N
+1974.0,Unprovoked,USA,Swimming,F,61,Other Category,N
+1964.0,Unprovoked,SOUTH AFRICA,Swimming,M,19,Other Named Sharks,N
+1962.0,Provoked,AUSTRALIA,Spearfishing,M,19,Large Predatory Sharks,N
+1961.0,Unprovoked,AUSTRALIA,Spearfishing,M,24,Other Named Sharks,N
+1960.0,Unprovoked,PAPUA NEW GUINEA,Spearfishing,M,26,Large Predatory Sharks,Y
+1957.0,Unprovoked,USA,Swimming,M,25,Large Predatory Sharks,Y
+1948.0,Provoked,PAPUA NEW GUINEA,Spearfishing,M,30,Other Category,N
+1937.0,Unprovoked,AUSTRALIA,Swimming,M,32,Large Predatory Sharks,Y
+1920.0,Unprovoked,AUSTRALIA,Swimming,M,12,Other Category,Y
+1912.0,Unprovoked,USA,Swimming,M,12,Other Category,Y
+2022.0,Sea Disaster,USA,Fishing,M,40,Other Category,N
+2021.0,Provoked,USA,Fishing,M,47,Other Category,N
+2021.0,Unprovoked,SOUTH AFRICA,Surfing,M,38,Other Category,N
+2021.0,Unprovoked,AUSTRALIA,Spearfishing,M,48,Other Category,N
+2021.0,Unprovoked,AUSTRALIA,Surfing,M,59,Large Predatory Sharks,Y
+2021.0,Unprovoked,AUSTRALIA,Swimming,M,58,Other Category,N
+2020.0,Unprovoked,AUSTRALIA,Spearfishing,M,18,Large Predatory Sharks,N
+2019.0,Unprovoked,USA,Swimming,M,64,Large Predatory Sharks,N
+2019.0,Unprovoked,USA,Spearfishing,M,50,Large Predatory Sharks,N
+2017.0,Unprovoked,USA,Spearfishing,M,25,Large Predatory Sharks,N
+2016.0,Unprovoked,USA,Surfing,M,42,Other Category,N
+2016.0,Unprovoked,AUSTRALIA,Surfing,M,36,Other Category,N
+2015.0,Unprovoked,AUSTRALIA,Surfing,M,26,Large Predatory Sharks,N
+2014.0,Unprovoked,USA,Surfing,M,50,Large Predatory Sharks,N
+2014.0,Unprovoked,AUSTRALIA,Spearfishing,M,17,Large Predatory Sharks,Y
+2014.0,Unprovoked,USA,Surfing,M,29,Small Sharks (Size-Based),N
+2013.0,Unprovoked,AUSTRALIA,Surfing,M,26,Other Named Sharks,N
+2013.0,Unprovoked,USA,Swimming,M,32,Other Category,N
+2012.0,Unprovoked,USA,Surfing,F,15,Small Sharks (Size-Based),N
+2011.0,Unprovoked,USA,Spearfishing,M,32,Large Predatory Sharks,N
+2010.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+2009.0,Unprovoked,USA,Surfing,M,55,Other Category,N
+2009.0,Unprovoked,USA,Surfing,M,52,Other Category,N
+2009.0,Unprovoked,AUSTRALIA,Swimming,M,19,Other Category,N
+2008.0,Unprovoked,AUSTRALIA,Surfing,M,51,Large Sharks (Size-Based),N
+2008.0,Unprovoked,AUSTRALIA,Surfing,M,29,Other Category,N
+2008.0,Unprovoked,MEXICO,Surfing,M,49,Large Sharks (Size-Based),N
+2008.0,Unprovoked,USA,Surfing,M,25,Other Category,N
+2007.0,Unprovoked,USA,Swimming,M,58,Other Category,N
+2007.0,Unprovoked,USA,Surfing,M,20,Small Sharks (Size-Based),N
+2006.0,Unprovoked,NEW ZEALAND,Surfing,M,10,Large Sharks (Size-Based),N
+2005.0,Unprovoked,USA,Swimming,M,29,Large Predatory Sharks,N
+2005.0,Unprovoked,USA,Swimming,M,8,Large Predatory Sharks,N
+2003.0,Unprovoked,USA,Surfing,M,30,Small Sharks (Size-Based),N
+2003.0,Unprovoked,BRAZIL,Surfing,M,17,Large Predatory Sharks,N
+2001.0,Unprovoked,USA,Surfing,F,17,Other Category,N
+2001.0,Unprovoked,BAHAMAS,Swimming,M,36,Other Category,N
+2001.0,Unprovoked,USA,Surfing,M,22,Large Sharks (Size-Based),N
+2000.0,Unprovoked,USA,Surfing,M,27,Large Predatory Sharks,N
+2000.0,Unprovoked,USA,Surfing,M,17,Large Sharks (Size-Based),N
+1999.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,30,Large Predatory Sharks,N
+1995.0,Unprovoked,USA,Surfing,M,18,Small Sharks (Size-Based),N
+1995.0,Provoked,USA,Fishing,F,32,Large Predatory Sharks,N
+1994.0,Unprovoked,USA,Surfing,M,24,Other Category,N
+1991.0,Unprovoked,USA,Surfing,M,21,Other Category,N
+1987.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,21,Large Predatory Sharks,N
+1986.0,Unprovoked,USA,Surfing,M,26,Other Category,N
+1986.0,Unprovoked,USA,Surfing,M,16,Large Sharks (Size-Based),N
+1984.0,Provoked,USA,Spearfishing,M,29,Small Sharks (Size-Based),N
+1982.0,Unprovoked,AUSTRALIA,Surfing,M,20,Other Category,Y
+1980.0,Provoked,SOUTH AFRICA,Spearfishing,M,29,Large Predatory Sharks,N
+1975.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+1975.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+1963.0,Unprovoked,SOUTH AFRICA,Swimming,M,15,Other Category,N
+1958.0,Unprovoked,SOUTH AFRICA,Swimming,M,14,Other Category,Y
+1951.0,Unprovoked,SOUTH AFRICA,Swimming,M,19,Other Category,Y
+1950.0,Unprovoked,USA,Swimming,M,16,Other Category,N
+1940.0,Unprovoked,AUSTRALIA,Swimming,M,13,Large Sharks (Size-Based),Y
+1929.0,Unprovoked,USA,Swimming,M,26,Other Category,N
+1927.0,Unprovoked,SOUTH AFRICA,Swimming,M,17,Large Predatory Sharks,Y
+1927.0,Provoked,NEW ZEALAND,Fishing,M,70,Large Predatory Sharks,N
+1924.0,Unprovoked,SOUTH AFRICA,Swimming,M,22,Other Category,Y
+2022.0,Unprovoked,USA,Surfing,M,41,Large Predatory Sharks,N
+2020.0,Unprovoked,AUSTRALIA,Surfing,M,29,Large Predatory Sharks,N
+2020.0,Unprovoked,AUSTRALIA,Surfing,M,46,Large Predatory Sharks,Y
+2019.0,Provoked,AUSTRALIA,Fishing,M,45,Other Category,N
+2019.0,Unprovoked,USA,Swimming,M,23,Other Category,N
+2018.0,Unprovoked,AUSTRALIA,Spearfishing,M,17,Other Category,N
+2017.0,Unprovoked,USA,Surfing,M,28,Other Category,N
+2017.0,Unprovoked,USA,Swimming,F,17,Large Predatory Sharks,N
+2016.0,Unprovoked,USA,Surfing,M,43,Other Category,N
+2015.0,Unprovoked,USA,Swimming,M,54,Other Category,N
+2015.0,Unprovoked,USA,Swimming,F,13,Other Category,N
+2014.0,Unprovoked,AUSTRALIA,Surfing,F,13,Other Category,N
+2014.0,Unprovoked,USA,Surfing,M,9,Other Category,N
+2013.0,Unprovoked,USA,Swimming,M,21,Large Predatory Sharks,N
+2013.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+2013.0,Unprovoked,AUSTRALIA,Spearfishing,M,28,Large Predatory Sharks,N
+2011.0,Unprovoked,AUSTRALIA,Surfing,M,51,Large Predatory Sharks,N
+2010.0,Unprovoked,USA,Swimming,F,13,Large Predatory Sharks,N
+2009.0,Provoked,BAHAMAS,Spearfishing,M,48,Large Sharks (Size-Based),N
+2009.0,Provoked,SOUTH AFRICA,Fishing,M,40,Large Predatory Sharks,N
+2009.0,Unprovoked,NEW ZEALAND,Swimming,M,49,Other Category,N
+2008.0,Unprovoked,USA,Surfing,M,15,Other Category,N
+2008.0,Provoked,USA,Surfing,M,21,Other Category,N
+2006.0,Unprovoked,BRAZIL,Surfing,M,33,Other Category,N
+2006.0,Unprovoked,SOUTH AFRICA,Surfing,M,15,Other Named Sharks,N
+2005.0,Unprovoked,SOUTH AFRICA,Surfing,M,32,Other Named Sharks,N
+2004.0,Unprovoked,SOUTH AFRICA,Surfing,M,20,Other Named Sharks,N
+2004.0,Unprovoked,USA,Swimming,M,47,Large Sharks (Size-Based),N
+2004.0,Unprovoked,USA,Swimming,F,19,Large Sharks (Size-Based),N
+2003.0,Unprovoked,USA,Surfing,M,18,Large Sharks (Size-Based),N
+2003.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+2003.0,Unprovoked,AUSTRALIA,Swimming,M,24,Other Named Sharks,N
+2002.0,Unprovoked,BRAZIL,Swimming,M,16,Other Category,Y
+2001.0,Unprovoked,AUSTRALIA,Surfing,M,49,Large Predatory Sharks,N
+2001.0,Unprovoked,USA,Surfing,M,19,Large Predatory Sharks,N
+2000.0,Unprovoked,USA,Swimming,M,41,Other Category,N
+1999.0,Unprovoked,BRAZIL,Surfing,M,18,Large Predatory Sharks,N
+1999.0,Unprovoked,USA,Surfing,M,13,Large Sharks (Size-Based),N
+1999.0,Unprovoked,USA,Swimming,M,41,Other Category,N
+1997.0,Unprovoked,USA,Swimming,M,8,Other Category,N
+1997.0,Unprovoked,USA,Spearfishing,M,35,Small Sharks (Size-Based),N
+1996.0,Unprovoked,SOUTH AFRICA,Surfing,M,17,Large Predatory Sharks,N
+1994.0,Unprovoked,USA,Swimming,F,30,Other Category,N
+1991.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,20,Large Predatory Sharks,N
+1989.0,Unprovoked,SOUTH AFRICA,Surfing,M,21,Large Predatory Sharks,N
+1988.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,36,Large Predatory Sharks,N
+1983.0,Unprovoked,SOUTH AFRICA,Swimming,M,16,Other Category,N
+1975.0,Provoked,SOUTH AFRICA,Fishing,M,12,Other Category,N
+1971.0,Unprovoked,AUSTRALIA,Fishing,M,51,Other Category,Y
+1966.0,Unprovoked,AUSTRALIA,Spearfishing,M,43,Large Predatory Sharks,N
+1966.0,Unprovoked,USA,Swimming,M,18,Small Sharks (Size-Based),N
+1964.0,Unprovoked,USA,Swimming,M,14,Other Category,N
+1963.0,Unprovoked,AUSTRALIA,Spearfishing,M,23,Large Predatory Sharks,N
+1963.0,Provoked,PAPUA NEW GUINEA,Fishing,M,30,Other Category,N
+1956.0,Provoked,NEW ZEALAND,Fishing,M,70,Large Predatory Sharks,N
+1942.0,Unprovoked,SOUTH AFRICA,Swimming,M,18,Large Predatory Sharks,Y
+1940.0,Unprovoked,AUSTRALIA,Swimming,M,22,Other Category,N
+1912.0,Unprovoked,AUSTRALIA,Swimming,M,21,Other Category,Y
+1911.0,Unprovoked,NEW ZEALAND,Fishing,M,50,Other Category,Y
+1887.0,Unprovoked,SOUTH AFRICA,Swimming,M,13,Other Category,Y
+2021.0,Unprovoked,AUSTRALIA,Swimming,M,34,Other Category,N
+2021.0,Unprovoked,AUSTRALIA,Surfing,M,25,Large Predatory Sharks,N
+2020.0,Unprovoked,AUSTRALIA,Surfing,M,17,Other Category,N
+2019.0,Unprovoked,USA,Surfing,M,9,Large Predatory Sharks,N
+2019.0,Unprovoked,USA,Surfing,M,19,Other Category,N
+2019.0,Unprovoked,AUSTRALIA,Swimming,F,15,Other Named Sharks,N
+2018.0,Unprovoked,AUSTRALIA,Swimming,M,33,Other Category,Y
+2018.0,Unprovoked,BAHAMAS,Spearfishing,F,32,Large Predatory Sharks,N
+2017.0,Unprovoked,USA,Surfing,F,54,Large Predatory Sharks,N
+2017.0,Unprovoked,USA,Surfing,M,18,Small Sharks (Size-Based),N
+2017.0,Unprovoked,SOUTH AFRICA,Surfing,M,14,Other Category,N
+2016.0,Unprovoked,USA,Spearfishing,M,22,Large Predatory Sharks,N
+2015.0,Unprovoked,USA,Surfing,M,22,Large Predatory Sharks,N
+2015.0,Unprovoked,AUSTRALIA,Surfing,M,42,Other Category,N
+2015.0,Unprovoked,USA,Surfing,M,18,Small Sharks (Size-Based),N
+2015.0,Unprovoked,AUSTRALIA,Surfing,M,41,Large Sharks (Size-Based),Y
+2014.0,Unprovoked,USA,Surfing,M,15,Large Predatory Sharks,N
+2014.0,Unprovoked,USA,Swimming,F,45,Other Category,N
+2013.0,Unprovoked,BAHAMAS,Spearfishing,M,40,Other Category,N
+2013.0,Unprovoked,USA,Swimming,M,14,Small Sharks (Size-Based),N
+2013.0,Unprovoked,USA,Surfing,M,16,Small Sharks (Size-Based),N
+2013.0,Unprovoked,MEXICO,Swimming,F,34,Large Predatory Sharks,N
+2013.0,Unprovoked,USA,Surfing,M,58,Small Sharks (Size-Based),N
+2012.0,Unprovoked,AUSTRALIA,Surfing,M,32,Large Predatory Sharks,N
+2012.0,Unprovoked,USA,Swimming,F,47,Other Category,N
+2011.0,Unprovoked,USA,Surfing,M,27,Other Category,N
+2011.0,Unprovoked,USA,Spearfishing,M,21,Large Predatory Sharks,N
+2011.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,37,Other Category,N
+2010.0,Unprovoked,USA,Surfing,M,25,Other Category,N
+2010.0,Unprovoked,BRAZIL,Surfing,M,29,Large Predatory Sharks,N
+2009.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+2008.0,Provoked,AUSTRALIA,Swimming,M,43,Large Predatory Sharks,N
+2008.0,Unprovoked,USA,Surfing,M,26,Other Category,N
+2008.0,Unprovoked,USA,Surfing,M,9,Other Category,N
+2007.0,Provoked,NEW ZEALAND,Spearfishing,M,16,Large Predatory Sharks,N
+2006.0,Unprovoked,AUSTRALIA,Surfing,M,25,Large Sharks (Size-Based),N
+2006.0,Unprovoked,USA,Surfing,M,14,Other Category,N
+2005.0,Unprovoked,USA,Swimming,M,20,Other Category,N
+2004.0,Unprovoked,BRAZIL,Swimming,M,22,Other Category,Y
+2003.0,Unprovoked,USA,Surfing,M,36,Other Category,N
+2002.0,Unprovoked,USA,Surfing,M,21,Other Category,N
+2002.0,Unprovoked,USA,Swimming,M,10,Other Category,N
+1999.0,Unprovoked,USA,Surfing,M,19,Other Category,N
+1997.0,Unprovoked,SOUTH AFRICA,Surfing,M,25,Large Predatory Sharks,Y
+1995.0,Unprovoked,USA,Surfing,M,16,Small Sharks (Size-Based),N
+1993.0,Unprovoked,AUSTRALIA,Spearfishing,M,21,Large Sharks (Size-Based),N
+1992.0,Unprovoked,AUSTRALIA,Surfing,M,17,Large Predatory Sharks,N
+1990.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,26,Large Predatory Sharks,N
+1990.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1990.0,Unprovoked,BAHAMAS,Spearfishing,M,38,Large Sharks (Size-Based),N
+1987.0,Unprovoked,SOUTH AFRICA,Surfing,M,24,Large Predatory Sharks,N
+1983.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,17,Other Category,N
+1982.0,Unprovoked,AUSTRALIA,Surfing,M,27,Other Category,N
+1982.0,Unprovoked,USA,Swimming,F,75,Other Category,Y
+1981.0,Unprovoked,SOUTH AFRICA,Swimming,M,30,Large Predatory Sharks,N
+1975.0,Unprovoked,USA,Swimming,M,18,Small Sharks (Size-Based),N
+1973.0,Unprovoked,SOUTH AFRICA,Surfing,M,13,Other Category,N
+1967.0,Unprovoked,SOUTH AFRICA,Surfing,M,22,Large Sharks (Size-Based),N
+1966.0,Unprovoked,AUSTRALIA,Spearfishing,M,30,Other Named Sharks,N
+1965.0,Unprovoked,USA,Spearfishing,M,28,Large Predatory Sharks,N
+1961.0,Provoked,USA,Spearfishing,M,57,Other Category,N
+1961.0,Provoked,AUSTRALIA,Spearfishing,M,21,Other Named Sharks,N
+1959.0,Unprovoked,USA,Spearfishing,M,19,Large Predatory Sharks,N
+1947.0,Unprovoked,AUSTRALIA,Fishing,M,9,Other Named Sharks,N
+1909.0,Unprovoked,USA,Swimming,M,16,Other Category,N
+2023.0,Unprovoked,AUSTRALIA,Swimming,F,16,Large Predatory Sharks,Y
+2022.0,Unprovoked,USA,Swimming,F,35,Other Category,N
+2020.0,Unprovoked,AUSTRALIA,Surfing,M,52,Other Category,Y
+2020.0,Provoked,USA,Fishing,M,55,Large Predatory Sharks,N
+2020.0,Unprovoked,AUSTRALIA,Spearfishing,M,36,Other Category,Y
+2020.0,Unprovoked,USA,Surfing,M,26,Large Predatory Sharks,Y
+2019.0,Unprovoked,USA,Surfing,M,23,Other Category,N
+2018.0,Unprovoked,NEW ZEALAND,Spearfishing,M,24,Large Predatory Sharks,N
+2018.0,Unprovoked,USA,Swimming,M,14,Large Sharks (Size-Based),N
+2017.0,Unprovoked,USA,Surfing,F,35,Other Category,N
+2017.0,Unprovoked,AUSTRALIA,Spearfishing,M,26,Other Category,N
+2016.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+2016.0,Provoked,AUSTRALIA,Fishing,M,34,Other Named Sharks,N
+2016.0,Provoked,NEW ZEALAND,Fishing,M,39,Large Predatory Sharks,N
+2015.0,Unprovoked,AUSTRALIA,Spearfishing,M,50,Other Category,N
+2015.0,Unprovoked,USA,Surfing,M,14,Other Category,N
+2012.0,Unprovoked,AUSTRALIA,Surfing,M,29,Other Category,N
+2011.0,Unprovoked,AUSTRALIA,Surfing,M,63,Other Category,N
+2010.0,Unprovoked,USA,Surfing,M,29,Large Predatory Sharks,N
+2010.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+2010.0,Unprovoked,USA,Swimming,F,13,Other Category,N
+2009.0,Unprovoked,SOUTH AFRICA,Swimming,M,25,Large Predatory Sharks,Y
+2008.0,Unprovoked,USA,Surfing,M,43,Other Category,N
+2006.0,Unprovoked,USA,Fishing,M,15,Other Category,N
+2006.0,Unprovoked,AUSTRALIA,Surfing,M,15,Large Predatory Sharks,N
+2006.0,Unprovoked,AUSTRALIA,Swimming,F,21,Large Predatory Sharks,Y
+2005.0,Unprovoked,USA,Surfing,M,30,Large Predatory Sharks,N
+2005.0,Unprovoked,USA,Surfing,M,22,Large Predatory Sharks,N
+2004.0,Unprovoked,AUSTRALIA,Spearfishing,M,38,Large Predatory Sharks,Y
+2004.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+2002.0,Unprovoked,BRAZIL,Swimming,M,19,Large Predatory Sharks,N
+2000.0,Unprovoked,SOUTH AFRICA,Surfing,M,18,Other Category,N
+1998.0,Unprovoked,SOUTH AFRICA,Surfing,M,21,Other Category,N
+1997.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,39,Large Predatory Sharks,Y
+1996.0,Provoked,SOUTH AFRICA,Spearfishing,M,29,Large Predatory Sharks,N
+1996.0,Unprovoked,USA,Surfing,M,27,Small Sharks (Size-Based),N
+1993.0,Unprovoked,USA,Swimming,M,30,Other Category,N
+1993.0,Unprovoked,USA,Surfing,M,26,Large Predatory Sharks,N
+1991.0,Unprovoked,USA,Swimming,M,23,Other Category,N
+1991.0,Unprovoked,AUSTRALIA,Swimming,M,35,Other Category,N
+1988.0,Unprovoked,USA,Swimming,M,24,Other Category,N
+1988.0,Unprovoked,SOUTH AFRICA,Surfing,M,17,Large Sharks (Size-Based),N
+1980.0,Unprovoked,USA,Surfing,M,29,Large Predatory Sharks,N
+1972.0,Unprovoked,SOUTH AFRICA,Swimming,M,20,Other Category,Y
+1969.0,Provoked,USA,Fishing,M,28,Other Category,N
+1968.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1960.0,Unprovoked,AUSTRALIA,Surfing,M,17,Large Predatory Sharks,N
+1956.0,Provoked,USA,Fishing,M,38,Other Category,N
+1949.0,Unprovoked,AUSTRALIA,Swimming,M,21,Other Category,N
+1939.0,Provoked,USA,Fishing,M,33,Other Category,N
+1878.0,Unprovoked,USA,Swimming,M,14,Other Category,Y
+1864.0,Unprovoked,USA,Swimming,M,13,Other Category,N
+2023.0,Unprovoked,USA,Swimming,F,24,Other Category,N
+2023.0,Unprovoked,BRAZIL,Swimming,M,14,Other Category,N
+2022.0,Unprovoked,USA,Swimming,M,17,Other Category,N
+2020.0,Unprovoked,USA,Surfing,M,26,Other Category,N
+2019.0,Unprovoked,USA,Spearfishing,M,70,Other Named Sharks,N
+2019.0,Unprovoked,AUSTRALIA,Spearfishing,M,18,Other Named Sharks,N
+2018.0,Unprovoked,AUSTRALIA,Surfing,M,41,Other Category,N
+2018.0,Unprovoked,AUSTRALIA,Surfing,M,18,Other Category,N
+2017.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+2016.0,Unprovoked,AUSTRALIA,Surfing,M,18,Other Category,N
+2015.0,Unprovoked,AUSTRALIA,Surfing,M,18,Other Category,N
+2015.0,Unprovoked,USA,Swimming,M,68,Large Sharks (Size-Based),N
+2014.0,Unprovoked,USA,Swimming,M,39,Small Sharks (Size-Based),N
+2014.0,Unprovoked,AUSTRALIA,Surfing,M,35,Large Predatory Sharks,N
+2013.0,Unprovoked,USA,Surfing,M,10,Large Predatory Sharks,N
+2013.0,Unprovoked,AUSTRALIA,Fishing,M,51,Other Named Sharks,N
+2011.0,Unprovoked,USA,Swimming,M,54,Other Category,N
+2011.0,Unprovoked,MEXICO,Swimming,M,46,Other Category,N
+2010.0,Unprovoked,AUSTRALIA,Surfing,M,31,Large Predatory Sharks,Y
+2009.0,Unprovoked,AUSTRALIA,Surfing,M,17,Large Predatory Sharks,N
+2008.0,Unprovoked,AUSTRALIA,Surfing,M,15,Other Category,N
+2008.0,Unprovoked,USA,Surfing,M,44,Other Category,N
+2008.0,Unprovoked,AUSTRALIA,Surfing,F,14,Other Category,N
+2007.0,Unprovoked,AUSTRALIA,Spearfishing,M,31,Large Predatory Sharks,N
+2007.0,Unprovoked,USA,Surfing,M,54,Small Sharks (Size-Based),N
+2005.0,Unprovoked,AUSTRALIA,Surfing,M,28,Large Predatory Sharks,N
+2005.0,Unprovoked,USA,Surfing,M,18,Other Category,Y
+2005.0,Unprovoked,AUSTRALIA,Surfing,M,40,Large Predatory Sharks,N
+2003.0,Provoked,USA,Surfing,M,30,Other Category,N
+2002.0,Unprovoked,USA,Surfing,M,31,Small Sharks (Size-Based),N
+2001.0,Unprovoked,USA,Swimming,M,11,Large Sharks (Size-Based),N
+2001.0,Unprovoked,USA,Surfing,M,16,Other Category,N
+2000.0,Unprovoked,USA,Surfing,M,24,Other Category,N
+1999.0,Unprovoked,USA,Surfing,M,35,Other Category,N
+1998.0,Provoked,USA,Surfing,M,19,Other Category,N
+1995.0,Unprovoked,USA,Surfing,M,19,Other Category,N
+1995.0,Unprovoked,USA,Surfing,M,20,Other Category,N
+1988.0,Unprovoked,USA,Surfing,M,14,Other Category,N
+1987.0,Unprovoked,USA,Swimming,F,16,Other Category,N
+1987.0,Unprovoked,AUSTRALIA,Swimming,M,37,Other Category,N
+1984.0,Unprovoked,AUSTRALIA,Spearfishing,M,27,Large Sharks (Size-Based),N
+1981.0,Unprovoked,USA,Swimming,F,16,Other Category,N
+1972.0,Unprovoked,AUSTRALIA,Surfing,M,18,Large Sharks (Size-Based),N
+1968.0,Unprovoked,SOUTH AFRICA,Spearfishing,M,28,Large Predatory Sharks,N
+1966.0,Unprovoked,AUSTRALIA,Fishing,M,30,Large Sharks (Size-Based),N
+1966.0,Provoked,USA,Fishing,M,18,Large Predatory Sharks,N
+1952.0,Unprovoked,PAPUA NEW GUINEA,Spearfishing,M,27,Other Category,Y
+1944.0,Unprovoked,SOUTH AFRICA,Swimming,M,19,Other Category,Y
+1922.0,Unprovoked,AUSTRALIA,Surfing,M,26,Other Category,Y
+1862.0,Unprovoked,NEW ZEALAND,Swimming,M,28,Other Category,N
+1842.0,Unprovoked,USA,Swimming,M,15,Other Category,N
+2022.0,Unprovoked,USA,Surfing,M,31,Large Predatory Sharks,N
+2021.0,Unprovoked,USA,Surfing,M,38,Other Category,N
+2021.0,Unprovoked,USA,Swimming,F,57,Large Predatory Sharks,N
+2019.0,Provoked,BRAZIL,Fishing,M,12,Other Named Sharks,N
+2018.0,Unprovoked,NEW ZEALAND,Spearfishing,M,50,Other Category,N
+2018.0,Provoked,AUSTRALIA,Fishing,M,55,Other Category,N
+2018.0,Unprovoked,USA,Surfing,M,14,Other Category,N
+2017.0,Unprovoked,USA,Swimming,F,60,Other Category,N
+2016.0,Unprovoked,USA,Surfing,M,29,Other Category,N
+2014.0,Unprovoked,USA,Swimming,F,10,Other Category,N
+2014.0,Unprovoked,NEW ZEALAND,Surfing,M,28,Other Category,N
+2013.0,Unprovoked,USA,Surfing,M,18,Large Predatory Sharks,N
+2012.0,Unprovoked,AUSTRALIA,Surfing,M,23,Large Sharks (Size-Based),N
+2012.0,Unprovoked,USA,Surfing,M,25,Other Category,N
+2012.0,Unprovoked,AUSTRALIA,Surfing,M,20,Large Predatory Sharks,N
+2011.0,Unprovoked,SOUTH AFRICA,Surfing,M,29,Large Predatory Sharks,N
+2009.0,Unprovoked,USA,Surfing,M,31,Small Sharks (Size-Based),N
+2009.0,Provoked,SOUTH AFRICA,Fishing,M,59,Other Named Sharks,N
+2008.0,Unprovoked,USA,Surfing,M,18,Small Sharks (Size-Based),N
+2005.0,Unprovoked,USA,Surfing,M,36,Large Predatory Sharks,N
+2002.0,Unprovoked,USA,Surfing,M,47,Small Sharks (Size-Based),N
+2002.0,Unprovoked,BRAZIL,Surfing,M,22,Large Predatory Sharks,N
+2002.0,Unprovoked,USA,Surfing,M,28,Other Category,N
+2002.0,Unprovoked,AUSTRALIA,Swimming,M,32,Other Category,N
+2001.0,Unprovoked,USA,Surfing,M,45,Large Sharks (Size-Based),N
+1999.0,Provoked,NEW ZEALAND,Fishing,M,28,Large Predatory Sharks,N
+1997.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+1996.0,Unprovoked,AUSTRALIA,Swimming,F,16,Other Named Sharks,N
+1992.0,Unprovoked,USA,Surfing,M,17,Other Category,N
+1990.0,Unprovoked,AUSTRALIA,Swimming,M,26,Other Category,N
+1986.0,Unprovoked,AUSTRALIA,Surfing,M,29,Large Predatory Sharks,N
+1983.0,Unprovoked,USA,Swimming,F,14,Other Category,N
+1976.0,Unprovoked,SOUTH AFRICA,Surfing,M,20,Large Predatory Sharks,N
+1972.0,Unprovoked,USA,Surfing,M,15,Other Category,N
+1971.0,Unprovoked,USA,Surfing,M,18,Small Sharks (Size-Based),N
+1971.0,Unprovoked,SOUTH AFRICA,Swimming,M,25,Large Sharks (Size-Based),N
+1971.0,Unprovoked,AUSTRALIA,Surfing,M,15,Large Predatory Sharks,N
+1970.0,Provoked,USA,Fishing,M,13,Small Sharks (Size-Based),N
+1969.0,Unprovoked,AUSTRALIA,Swimming,M,15,Other Category,N
+1963.0,Provoked,AUSTRALIA,Surfing,M,18,Large Sharks (Size-Based),N
+1953.0,Unprovoked,AUSTRALIA,Spearfishing,M,23,Other Category,N
+1948.0,Unprovoked,AUSTRALIA,Swimming,M,16,Large Sharks (Size-Based),Y
+1941.0,Provoked,USA,Fishing,M,53,Large Predatory Sharks,N
+1921.0,Unprovoked,AUSTRALIA,Swimming,M,20,Other Category,N
+1899.0,Unprovoked,USA,Swimming,M,15,Large Sharks (Size-Based),Y
+2023.0,Unprovoked,USA,Surfing,M,15,Other Category,N
+2019.0,Unprovoked,USA,Swimming,M,65,Other Category,Y
+2019.0,Unprovoked,AUSTRALIA,Surfing,M,41,Other Category,N
+2018.0,Unprovoked,AUSTRALIA,Swimming,F,12,Other Category,N
+2018.0,Unprovoked,USA,Surfing,M,30,Other Category,N
+2018.0,Unprovoked,SOUTH AFRICA,Surfing,M,19,Large Predatory Sharks,N
+2017.0,Unprovoked,USA,Surfing,M,54,Large Predatory Sharks,N
+2016.0,Unprovoked,AUSTRALIA,Surfing,M,65,Large Predatory Sharks,N
+2016.0,Unprovoked,USA,Swimming,M,13,Small Sharks (Size-Based),N
+2015.0,Unprovoked,AUSTRALIA,Surfing,M,52,Large Predatory Sharks,N
+2014.0,Unprovoked,USA,Surfing,M,17,Large Predatory Sharks,N
+2014.0,Unprovoked,USA,Surfing,M,23,Small Sharks (Size-Based),N
+2014.0,Unprovoked,SOUTH AFRICA,Swimming,M,66,Large Sharks (Size-Based),Y
+2013.0,Unprovoked,USA,Surfing,M,30,Small Sharks (Size-Based),N
+2012.0,Unprovoked,USA,Swimming,F,43,Other Category,N
+2011.0,Unprovoked,AUSTRALIA,Surfing,M,48,Large Predatory Sharks,N
+2011.0,Unprovoked,MEXICO,Swimming,F,38,Other Category,N
+2010.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+2010.0,Unprovoked,USA,Surfing,M,24,Other Category,N
+2010.0,Unprovoked,AUSTRALIA,Surfing,M,46,Other Named Sharks,N
+2006.0,Unprovoked,USA,Surfing,M,52,Small Sharks (Size-Based),N
+2005.0,Unprovoked,USA,Swimming,M,22,Small Sharks (Size-Based),N
+2003.0,Unprovoked,USA,Surfing,M,15,Small Sharks (Size-Based),N
+2003.0,Unprovoked,BRAZIL,Swimming,M,16,Other Category,N
+2001.0,Unprovoked,USA,Surfing,M,38,Other Category,N
+1998.0,Unprovoked,USA,Surfing,M,18,Other Category,N
+1998.0,Unprovoked,USA,Surfing,M,28,Other Category,N
+1996.0,Unprovoked,USA,Surfing,M,21,Large Sharks (Size-Based),N
+1996.0,Unprovoked,AUSTRALIA,Swimming,M,11,Other Named Sharks,N
+1992.0,Unprovoked,USA,Surfing,M,24,Other Category,N
+1992.0,Unprovoked,USA,Surfing,M,28,Large Predatory Sharks,N
+1990.0,Unprovoked,USA,Surfing,M,22,Large Predatory Sharks,N
+1989.0,Unprovoked,SOUTH AFRICA,Surfing,M,16,Large Predatory Sharks,N
+1988.0,Unprovoked,USA,Swimming,M,12,Other Category,N
+1988.0,Unprovoked,AUSTRALIA,Surfing,M,12,Other Named Sharks,N
+1987.0,Provoked,AUSTRALIA,Fishing,M,34,Other Category,N
+1983.0,Unprovoked,USA,Surfing,M,22,Other Category,N
+1981.0,Unprovoked,USA,Surfing,M,25,Other Category,N
+1968.0,Unprovoked,AUSTRALIA,Swimming,F,14,Other Category,N
+1959.0,Provoked,SOUTH AFRICA,Spearfishing,M,23,Large Predatory Sharks,N
+1955.0,Unprovoked,PAPUA NEW GUINEA,Swimming,M,8,Other Named Sharks,N
+1953.0,Unprovoked,USA,Swimming,F,19,Other Category,N
+1936.0,Unprovoked,AUSTRALIA,Swimming,M,14,Large Predatory Sharks,Y
+1900.0,Unprovoked,SOUTH AFRICA,Swimming,M,30,Other Category,Y
